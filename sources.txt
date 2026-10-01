@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/tr.m3u
+https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u
+
