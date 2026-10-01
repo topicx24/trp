@@ -1,0 +1,9 @@
+{
+  "output": "playlist.m3u",
+  "request_timeout": 30,
+  "remove_duplicates": true,
+  "prefer_quality": true,
+  "categorize": true,
+  "keep_unknown_as": "Diğer",
+  "film_categories": true
+}
