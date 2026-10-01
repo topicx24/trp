@@ -41,7 +41,7 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197262&ex
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197268&extension=ts&play_token=tGkC8erhpz
 #EXTINF:-1 tvg-name="CNN TÜRK" group-title="Haber",CNN TÜRK
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197260&extension=ts&play_token=UJ6cx8th1N
-#EXTINF:-1 tvg-name="TV NET" group-title="Haber",TV NET
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/there.png" tvg-name="TV NET" group-title="Haber",TV NET
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197257&extension=ts&play_token=hQlsXbvuXH
 #EXTINF:-1 tvg-name="24" group-title="Haber",24
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
@@ -130,23 +130,23 @@ https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 2.png" tvg-name="SİNEMA TV" group-title="Sinema",SİNEMA TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471689&extension=ts&play_token=rlz9LlxLPS
 #EXTINF:-1 tvg-name="SİNEMA TV 2" group-title="Sinema",SİNEMA TV 2
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197129&extension=ts&play_token=zLg0pNC7FA
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471689&extension=ts&play_token=rlz9LlxLPS
 #EXTINF:-1 tvg-name="SİNEMA AKSİYON" group-title="Sinema",SİNEMA AKSİYON
 http://176.65.153.7:6004/play/a023/index.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/MOVIESMART.png" tvg-name="MOVIESMART" group-title="Sinema",MOVIESMART
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471684&extension=ts&play_token=txJYZNZE6k
 #EXTINF:-1 tvg-name="MOVIESMART TÜRK" group-title="Sinema",MOVIESMART TÜRK
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197136&extension=ts&play_token=XUCMlJbssm
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" tvg-name="BEIN SERIES 1" group-title="Dizi",BEIN SERIES 1
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471685&extension=ts&play_token=t39wCHGH3S
+#EXTINF:-1 tvg-name="BEIN SERIES 1" group-title="Dizi",BEIN SERIES 1
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471673&extension=ts&play_token=fDOWsHHnSf
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" tvg-name="BEIN SERIES 2" group-title="Dizi",BEIN SERIES 2
+#EXTINF:-1 tvg-name="BEIN SERIES 2" group-title="Dizi",BEIN SERIES 2
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471674&extension=ts&play_token=5gfhIkzuQg
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" tvg-name="BEIN SERIES 3" group-title="Dizi",BEIN SERIES 3
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471675&extension=ts&play_token=gzHjnGWvXz
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" tvg-name="BEIN SERIES 4" group-title="Dizi",BEIN SERIES 4
+#EXTINF:-1 tvg-name="BEIN SERIES 4" group-title="Dizi",BEIN SERIES 4
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471676&extension=ts&play_token=x3dLMvs808
 #EXTINF:-1 tvg-name="DİZİ SMART MAX" group-title="Dizi",DİZİ SMART MAX
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197140&extension=ts&play_token=IsxEkfERFU
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471682&extension=ts&play_token=BtvB09wPcF
 #EXTINF:-1 tvg-name="TRT BELGESEL" group-title="Belgesel",TRT BELGESEL
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197441&extension=ts&play_token=2YxNaeWuvv
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/620.jpg?70052" tvg-name="DISCOVERY" group-title="Belgesel",DISCOVERY
@@ -190,10 +190,10 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197414&ex
 #EXTINF:-1 tvg-name="MİNİKA GO" group-title="Çocuk",MİNİKA GO
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197415&extension=ts&play_token=jZU8XkX5Bq
 #EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Çocuk",CARTOON NETWORK
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197411&extension=ts&play_token=6Vh9e7AwnI
+https://nord.ayakkabiparti.lol/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-name="CARTOONITO" group-title="Çocuk",CARTOONITO
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6850/index.m3u8
-#EXTINF:-1 tvg-name="BABY TV" group-title="Çocuk",BABY TV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BabyTV.png" tvg-name="BABY TV" group-title="Çocuk",BABY TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197418&extension=ts&play_token=pFntdTqMqE
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/748.png?ver=3061" tvg-name="DISNEY JUNIOR" group-title="Çocuk",DISNEY JUNIOR
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200300&extension=ts&play_token=8cv2bWXVaY
@@ -474,7 +474,7 @@ https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" tvg-name="DiZi PREMIUM" group-title="Diğer",DiZi PREMIUM
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200368&extension=ts&play_token=x5FgNImwLB
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/DIZISMART MAX.png" tvg-name="DIZISMART MAX" group-title="Diğer",DIZISMART MAX
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471682&extension=ts&play_token=BtvB09wPcF
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471682&extension=ts&play_token=BtvB09wPcF
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/CINE 6.png" tvg-name="DIZISMART PREMIUM" group-title="Diğer",DIZISMART PREMIUM
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471683&extension=ts&play_token=M5icembCGP
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJ6Ysr2y/37857489-ico.png" tvg-name="DOST MÜZİK TV" group-title="Diğer",DOST MÜZİK TV
