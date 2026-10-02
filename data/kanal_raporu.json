@@ -1,7 +1,7 @@
 {
   "total_channels": 192,
-  "matched": 97,
-  "not_found": 95,
+  "matched": 96,
+  "not_found": 96,
   "source_count": 2,
   "candidate_count": 1721,
   "indexed_channels": 871,
@@ -1329,15 +1329,13 @@
     {
       "name": "BEIN SERIES 1",
       "category": "Dizi",
-      "status": "working",
-      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471673&extension=ts&play_token=fDOWsHHnSf",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471673&extension=ts&play_token=fDOWsHHnSf",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200"
+          "ok": false,
+          "reason": "HTTPError"
         }
       ]
     },
