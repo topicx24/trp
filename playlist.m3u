@@ -223,7 +223,7 @@ https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 https://gtrk-volga.ru/media/hr24/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Y6aWHoUwgQ.png" tvg-name="Radyo" group-title="Radyo",Radyo
 http://46.20.3.231:80/;
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/6Uea_.webp" tvg-name="KIRAL FM" group-title="Radyo",KIRAL FM
+#EXTINF:-1 tvg-name="KIRAL FM" group-title="Radyo",KIRAL FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8?listeningSessionID=689a71b34a7d0fef_650218_ELAz7Pop__000000061yg&downloadSessionID=0&listenerid=3239e3f5e40f1819ee16c17a3a5f5b3e&awparams=companionAds%3Atrue
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtBqKvxF/38361849-ico.png" tvg-name="TV 2020" group-title="Film",TV 2020
 https://edge.kuzeykibrissmart.tv/tv2020/bant1/chunks.m3u8
