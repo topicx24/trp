@@ -160,7 +160,7 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 #EXTINF:-1 tvg-name="TRT ÇOCUK" group-title="Çocuk",TRT ÇOCUK
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197417&extension=ts&play_token=uFQW2KSLfI
 #EXTINF:-1 tvg-name="MİNİKA ÇOCUK" group-title="Çocuk",MİNİKA ÇOCUK
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197414&extension=ts&play_token=QRcQhhtUMu
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
 #EXTINF:-1 tvg-name="MİNİKA GO" group-title="Çocuk",MİNİKA GO
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197415&extension=ts&play_token=jZU8XkX5Bq
 #EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Çocuk",CARTOON NETWORK
