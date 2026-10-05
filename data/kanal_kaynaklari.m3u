@@ -28,7 +28,7 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196687&ex
 #EXTINF:-1 tvg-name="360" group-title="Ulusal",360
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196686&extension=ts&play_token=bNDysiy4vA
 #EXTINF:-1 tvg-name="EKOL TV" group-title="Ulusal",EKOL TV
-https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1257377&extension=ts&play_token=DA2nexCTPP
 #EXTINF:-1 tvg-name="KANAL B" group-title="Ulusal",KANAL B
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197198&extension=ts&play_token=6NxyOt8ARr
 #EXTINF:-1 tvg-name="BENGÜTÜRK" group-title="Ulusal",BENGÜTÜRK
@@ -56,7 +56,7 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197263&ex
 #EXTINF:-1 tvg-name="CNBC-E" group-title="Haber",CNBC-E
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-name="A HABER" group-title="Haber",A HABER
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197288&extension=ts&play_token=5Ikrg2T6or
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197259&extension=ts&play_token=lETzv8vz
 #EXTINF:-1 tvg-name="FLASH HABER" group-title="Haber",FLASH HABER
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197265&extension=ts&play_token=QkFNXps4SM
 #EXTINF:-1 tvg-name="ULUSAL KANAL" group-title="Haber",ULUSAL KANAL
@@ -89,14 +89,12 @@ http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="KRAL TV" group-title="Müzik",KRAL TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197360&extension=ts&play_token=06puQPiAQ5
+#EXTINF:-1 tvg-name="KRAL POP" group-title="Müzik",KRAL POP
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197361&extension=ts&play_token=88YQcnlyZu
 #EXTINF:-1 tvg-name="DREAM TÜRK" group-title="Müzik",DREAM TÜRK
 https://xyktmobile00.s.gy/TICK_90055
 #EXTINF:-1 tvg-name="POWER TÜRK" group-title="Müzik",POWER TÜRK
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197364&extension=ts&play_token=FkdL4n4O9g
-#EXTINF:-1 tvg-name="POWER TÜRK SLOW" group-title="Müzik",POWER TÜRK SLOW
-https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="POWER TÜRK TAPTAZE" group-title="Müzik",POWER TÜRK TAPTAZE
-https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="NR1" group-title="Müzik",NR1
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197359&extension=ts&play_token=VTomsfRgFY
 #EXTINF:-1 tvg-name="NR1 TÜRK" group-title="Müzik",NR1 TÜRK
@@ -153,8 +151,6 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197434&exte
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8?md5=yJ4adbAK5bE0F93vqFevgw&expires=1687122603
 #EXTINF:-1 tvg-name="YABAN TV" group-title="Belgesel",YABAN TV
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197439&extension=ts&play_token=TfLVZnUFoE
-#EXTINF:-1 tvg-name="ÇİFTÇİ TV" group-title="Belgesel",ÇİFTÇİ TV
-https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 #EXTINF:-1 tvg-name="TRT ÇOCUK" group-title="Çocuk",TRT ÇOCUK
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197417&extension=ts&play_token=uFQW2KSLfI
 #EXTINF:-1 tvg-name="MİNİKA ÇOCUK" group-title="Çocuk",MİNİKA ÇOCUK
