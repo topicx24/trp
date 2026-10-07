@@ -117,8 +117,6 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471689&ext
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471685&extension=ts&play_token=t39wCHGH3S
 #EXTINF:-1 tvg-name="BEIN SERIES 1" group-title="Dizi",BEIN SERIES 1
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471673&extension=ts&play_token=fDOWsHHnSf
-#EXTINF:-1 tvg-name="BEIN SERIES 2" group-title="Dizi",BEIN SERIES 2
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471674&extension=ts&play_token=5gfhIkzuQg
 #EXTINF:-1 tvg-name="BEIN SERIES 3" group-title="Dizi",BEIN SERIES 3
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471675&extension=ts&play_token=gzHjnGWvXz
 #EXTINF:-1 tvg-name="BEIN SERIES 4" group-title="Dizi",BEIN SERIES 4
@@ -162,7 +160,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_72
 #EXTINF:-1 tvg-name="MİNİKA GO" group-title="Çocuk",MİNİKA GO
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197415&extension=ts&play_token=jZU8XkX5Bq
 #EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Çocuk",CARTOON NETWORK
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197411&extension=ts&play_token=6Vh9e7AwnI
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197411&extension=ts&play_token=6Vh9e7AwnI
 #EXTINF:-1 tvg-name="CARTOONITO" group-title="Çocuk",CARTOONITO
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6850/index.m3u8
 #EXTINF:-1 tvg-name="BABY TV" group-title="Çocuk",BABY TV
@@ -171,8 +169,6 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197418&ex
 http://176.65.153.12:6002/play/a05o/index.m3u8
 #EXTINF:-1 tvg-name="BLOOMBERGHT" group-title="Ekonomi",BLOOMBERGHT
 http://176.65.153.12:6002/play/a05o/index.m3u8
-#EXTINF:-1 tvg-name="A PARA" group-title="Ekonomi",A PARA
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197272&extension=ts&play_token=YMedtQj0VQ
 #EXTINF:-1 tvg-name="TLC" group-title="Yaşam",TLC
 https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
 #EXTINF:-1 tvg-name="TLC HD" group-title="Yaşam",TLC HD
