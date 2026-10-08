@@ -1,7 +1,7 @@
 {
   "total_channels": 192,
-  "matched": 96,
-  "not_found": 96,
+  "matched": 95,
+  "not_found": 97,
   "source_count": 2,
   "candidate_count": 1720,
   "indexed_channels": 871,
@@ -741,9 +741,7 @@
     {
       "name": "S SPORT 2",
       "category": "Spor",
-      "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=711&extension=ts&play_token=ROKTmEEyZj",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "status": "not_found",
       "attempts": [
         {
           "url": "https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8",
@@ -754,8 +752,14 @@
         {
           "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=711&extension=ts&play_token=ROKTmEEyZj",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200"
+          "ok": false,
+          "reason": "HTTPError"
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=18638&extension=ts&play_token=Ww38qH3LB4",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "HTTPError"
         }
       ]
     },
@@ -890,17 +894,11 @@
       "name": "KRAL TV",
       "category": "Müzik",
       "status": "working",
-      "url": "http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8",
+      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197360&extension=ts&play_token=06puQPiAQ5",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197360&extension=ts&play_token=06puQPiAQ5",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "HTTPError"
-        },
-        {
-          "url": "http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200"
