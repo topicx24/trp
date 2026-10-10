@@ -1,7 +1,7 @@
 {
   "total_channels": 192,
-  "matched": 97,
-  "not_found": 95,
+  "matched": 93,
+  "not_found": 99,
   "source_count": 2,
   "candidate_count": 1720,
   "indexed_channels": 871,
@@ -235,11 +235,17 @@
       "name": "EKOL TV",
       "category": "Ulusal",
       "status": "working",
-      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1257377&extension=ts&play_token=DA2nexCTPP",
+      "url": "https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1257377&extension=ts&play_token=DA2nexCTPP",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "HTTPError"
+        },
+        {
+          "url": "https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200"
@@ -1329,60 +1335,52 @@
     {
       "name": "BEIN SERIES 1",
       "category": "Dizi",
-      "status": "working",
-      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471673&extension=ts&play_token=fDOWsHHnSf",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471673&extension=ts&play_token=fDOWsHHnSf",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200"
+          "ok": false,
+          "reason": "HTTPError"
         }
       ]
     },
     {
       "name": "BEIN SERIES 2",
       "category": "Dizi",
-      "status": "working",
-      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471674&extension=ts&play_token=5gfhIkzuQg",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471674&extension=ts&play_token=5gfhIkzuQg",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200"
+          "ok": false,
+          "reason": "HTTPError"
         }
       ]
     },
     {
       "name": "BEIN SERIES 3",
       "category": "Dizi",
-      "status": "working",
-      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471675&extension=ts&play_token=gzHjnGWvXz",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471675&extension=ts&play_token=gzHjnGWvXz",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200"
+          "ok": false,
+          "reason": "HTTPError"
         }
       ]
     },
     {
       "name": "BEIN SERIES 4",
       "category": "Dizi",
-      "status": "working",
-      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471676&extension=ts&play_token=x3dLMvs808",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471676&extension=ts&play_token=x3dLMvs808",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200"
+          "ok": false,
+          "reason": "HTTPError"
         }
       ]
     },
@@ -1396,11 +1394,23 @@
       "name": "DİZİ SMART MAX",
       "category": "Dizi",
       "status": "working",
-      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471682&extension=ts&play_token=BtvB09wPcF",
+      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197140&extension=ts&play_token=IsxEkfERFU",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471682&extension=ts&play_token=BtvB09wPcF",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "HTTPError"
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471682&extension=ts&play_token=BtvB09wPcF",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "HTTPError"
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197140&extension=ts&play_token=IsxEkfERFU",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200"
