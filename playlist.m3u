@@ -41,7 +41,7 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197262&ex
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197268&extension=ts&play_token=tGkC8erhpz
 #EXTINF:-1 tvg-name="CNN TÜRK" group-title="Haber",CNN TÜRK
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197260&extension=ts&play_token=UJ6cx8th1N
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/there.png" tvg-name="TV NET" group-title="Haber",TV NET
+#EXTINF:-1 tvg-name="TV NET" group-title="Haber",TV NET
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197257&extension=ts&play_token=hQlsXbvuXH
 #EXTINF:-1 tvg-name="24" group-title="Haber",24
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
@@ -83,8 +83,8 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=707&extensi
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868623&extension=ts&play_token=GBNiNjiIji
 #EXTINF:-1 tvg-id="SSport.tr@SD" tvg-name="S SPORT" group-title="Spor",S SPORT
 https://corestream.siteyaptim.live/s-sport/index.m3u8
-#EXTINF:-1 tvg-id="SSport2.tr@SD" tvg-name="S SPORT 2" group-title="Spor",S SPORT 2
-https://corestream.siteyaptim.live/s-sport2/index.m3u8
+#EXTINF:-1 tvg-name="S SPORT 2" group-title="Spor",S SPORT 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=711&extension=ts&play_token=ROKTmEEyZj
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ce3a853a-b638-44b8-b4f4-9728aec137d3.png" tvg-name="SPORTS TV" group-title="Spor",SPORTS TV
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2292.jpg?1484" tvg-name="SPOR SMART" group-title="Spor",SPOR SMART
@@ -98,9 +98,9 @@ http://176.65.153.66:6003/play/a00y/index.m3u8
 #EXTINF:-1 tvg-name="FB TV" group-title="Spor",FB TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT MÜZİK" group-title="Müzik",TRT MÜZİK
-https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197363&extension=ts&play_token=bHBz9ZRpwX
 #EXTINF:-1 tvg-name="KRAL TV" group-title="Müzik",KRAL TV
-http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197360&extension=ts&play_token=06puQPiAQ5
 #EXTINF:-1 tvg-id="KralPopTV.tr@SD" tvg-name="KRAL POP" group-title="Müzik",KRAL POP
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1 tvg-name="DREAM TÜRK" group-title="Müzik",DREAM TÜRK
@@ -167,8 +167,8 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197431&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=587194&extension=ts&play_token=e57YMrO07i
 #EXTINF:-1 tvg-name="VIASAT HISTORY" group-title="Belgesel",VIASAT HISTORY
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197420&extension=ts&play_token=mT2OGR6h9B
-#EXTINF:-1 tvg-name="VIASAT EXPLORE" group-title="Belgesel",VIASAT EXPLORE
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197442&extension=ts&play_token=T0Qe2W6ku7
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/720.jpg?3859" tvg-name="VIASAT EXPLORE" group-title="Belgesel",VIASAT EXPLORE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=587195&extension=ts&play_token=6TCRBIxqrh
 #EXTINF:-1 tvg-name="BEIN IZ" group-title="Belgesel",BEIN IZ
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19078/index.m3u8
 #EXTINF:-1 tvg-name="LOVE NATURE" group-title="Belgesel",LOVE NATURE
@@ -184,7 +184,7 @@ https://vavoo.biz-az.workers.dev/play/385695705243789b6f2c45.m3u8
 #EXTINF:-1 tvg-name="ÇİFTÇİ TV" group-title="Belgesel",ÇİFTÇİ TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 #EXTINF:-1 tvg-name="TRT ÇOCUK" group-title="Çocuk",TRT ÇOCUK
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197417&extension=ts&play_token=uFQW2KSLfI
 #EXTINF:-1 tvg-name="MİNİKA ÇOCUK" group-title="Çocuk",MİNİKA ÇOCUK
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197414&extension=ts&play_token=QRcQhhtUMu
 #EXTINF:-1 tvg-name="MİNİKA GO" group-title="Çocuk",MİNİKA GO
