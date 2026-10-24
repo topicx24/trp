@@ -163,8 +163,6 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197411&ex
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6850/index.m3u8
 #EXTINF:-1 tvg-name="BABY TV" group-title="Çocuk",BABY TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197418&extension=ts&play_token=pFntdTqMqE
-#EXTINF:-1 tvg-name="DISNEY JUNIOR" group-title="Çocuk",DISNEY JUNIOR
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200300&extension=ts&play_token=8cv2bWXVaY
 #EXTINF:-1 tvg-name="BLOOMBERG HT" group-title="Ekonomi",BLOOMBERG HT
 http://176.65.153.12:6002/play/a05o/index.m3u8
 #EXTINF:-1 tvg-name="BLOOMBERGHT" group-title="Ekonomi",BLOOMBERGHT

@@ -1,7 +1,7 @@
 {
   "total_channels": 192,
-  "matched": 95,
-  "not_found": 97,
+  "matched": 94,
+  "not_found": 98,
   "source_count": 2,
   "candidate_count": 1781,
   "indexed_channels": 894,
@@ -1916,15 +1916,13 @@
     {
       "name": "DISNEY JUNIOR",
       "category": "Çocuk",
-      "status": "working",
-      "url": "http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200300&extension=ts&play_token=8cv2bWXVaY",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200300&extension=ts&play_token=8cv2bWXVaY",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200"
+          "ok": false,
+          "reason": "HTTPError"
         }
       ]
     },
