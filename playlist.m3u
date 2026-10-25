@@ -151,7 +151,7 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471673&e
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471674&extension=ts&play_token=5gfhIkzuQg
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" tvg-name="BEIN SERIES 3" group-title="Dizi",BEIN SERIES 3
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471675&extension=ts&play_token=gzHjnGWvXz
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" tvg-name="BEIN SERIES 4" group-title="Dizi",BEIN SERIES 4
+#EXTINF:-1 tvg-name="BEIN SERIES 4" group-title="Dizi",BEIN SERIES 4
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471676&extension=ts&play_token=x3dLMvs808
 #EXTINF:-1 tvg-name="DİZİ SMART MAX" group-title="Dizi",DİZİ SMART MAX
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471682&extension=ts&play_token=BtvB09wPcF
