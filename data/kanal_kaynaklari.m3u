@@ -110,11 +110,11 @@ http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915
 #EXTINF:-1 tvg-name="LALEGÜL TV" group-title="Dini",LALEGÜL TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-name="SİNEMA TV 2" group-title="Sinema",SİNEMA TV 2
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197129&extension=ts&play_token=zLg0pNC7FA
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471689&extension=ts&play_token=rlz9LlxLPS
 #EXTINF:-1 tvg-name="MOVIESMART TÜRK" group-title="Sinema",MOVIESMART TÜRK
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197136&extension=ts&play_token=XUCMlJbssm
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471685&extension=ts&play_token=t39wCHGH3S
 #EXTINF:-1 tvg-name="DİZİ SMART MAX" group-title="Dizi",DİZİ SMART MAX
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197140&extension=ts&play_token=IsxEkfERFU
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471682&extension=ts&play_token=BtvB09wPcF
 #EXTINF:-1 tvg-name="TRT BELGESEL" group-title="Belgesel",TRT BELGESEL
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197441&extension=ts&play_token=2YxNaeWuvv
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL" group-title="Belgesel",DISCOVERY CHANNEL
@@ -146,13 +146,11 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197439&exte
 #EXTINF:-1 tvg-name="ÇİFTÇİ TV" group-title="Belgesel",ÇİFTÇİ TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 #EXTINF:-1 tvg-name="TRT ÇOCUK" group-title="Çocuk",TRT ÇOCUK
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197417&extension=ts&play_token=uFQW2KSLfI
 #EXTINF:-1 tvg-name="MİNİKA ÇOCUK" group-title="Çocuk",MİNİKA ÇOCUK
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
 #EXTINF:-1 tvg-name="MİNİKA GO" group-title="Çocuk",MİNİKA GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
-#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Çocuk",CARTOON NETWORK
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197411&extension=ts&play_token=6Vh9e7AwnI
 #EXTINF:-1 tvg-name="CARTOONITO" group-title="Çocuk",CARTOONITO
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6850/index.m3u8
 #EXTINF:-1 tvg-name="BABY TV" group-title="Çocuk",BABY TV
@@ -161,8 +159,6 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197418&exte
 http://193.123.61.120:3000/kanal/bloomberght
 #EXTINF:-1 tvg-name="BLOOMBERGHT" group-title="Ekonomi",BLOOMBERGHT
 http://193.123.61.120:3000/kanal/bloomberght
-#EXTINF:-1 tvg-name="A PARA" group-title="Ekonomi",A PARA
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197272&extension=ts&play_token=YMedtQj0VQ
 #EXTINF:-1 tvg-name="TLC" group-title="Yaşam",TLC
 https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
 #EXTINF:-1 tvg-name="TLC HD" group-title="Yaşam",TLC HD
