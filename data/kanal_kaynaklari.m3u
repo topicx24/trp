@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="TRT 4K" group-title="Ulusal",TRT 4K
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197438&extension=ts&play_token=zkjkoH1DCe
 #EXTINF:-1 tvg-name="TRT 1" group-title="Ulusal",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196699&extension=ts&play_token=vmAan78Qyz
 #EXTINF:-1 tvg-name="TRT 2" group-title="Ulusal",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="ATV" group-title="Ulusal",ATV
@@ -79,6 +79,8 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=707&extensi
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=711&extension=ts&play_token=ROKTmEEyZj
 #EXTINF:-1 tvg-name="SPOR SMART 2" group-title="Spor",SPOR SMART 2
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=18631&extension=ts&play_token=B2l3zE1IqA
+#EXTINF:-1 tvg-name="BEIN SPORTS HABER" group-title="Spor",BEIN SPORTS HABER
+http://176.65.153.66:6003/play/a00y/index.m3u8
 #EXTINF:-1 tvg-name="FB TV" group-title="Spor",FB TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT MÜZİK" group-title="Müzik",TRT MÜZİK
