@@ -1,7 +1,7 @@
 {
   "total_channels": 192,
-  "matched": 92,
-  "not_found": 100,
+  "matched": 89,
+  "not_found": 103,
   "source_count": 2,
   "candidate_count": 1254,
   "indexed_channels": 750,
@@ -43,23 +43,11 @@
       "name": "TRT 2",
       "category": "Ulusal",
       "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196688&extension=ts&play_token=xSvgymKo8X",
+      "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "attempts": [
         {
           "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "HTTPError"
-        },
-        {
-          "url": "https://tv-trt2.medya.trt.com.tr/master_720.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "HTTPError"
-        },
-        {
-          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196688&extension=ts&play_token=xSvgymKo8X",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200"
@@ -329,17 +317,11 @@
       "name": "CNN TÜRK",
       "category": "Haber",
       "status": "working",
-      "url": "http://umperisn.mywire.org/index.php?id=594252&token=DeaTHLesS",
+      "url": "https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "attempts": [
         {
           "url": "https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "HTTPError"
-        },
-        {
-          "url": "http://umperisn.mywire.org/index.php?id=594252&token=DeaTHLesS",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200"
@@ -705,9 +687,7 @@
     {
       "name": "S SPORT 2",
       "category": "Spor",
-      "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=711&extension=ts&play_token=ROKTmEEyZj",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "status": "not_found",
       "attempts": [
         {
           "url": "https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8",
@@ -718,8 +698,14 @@
         {
           "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=711&extension=ts&play_token=ROKTmEEyZj",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200"
+          "ok": false,
+          "reason": "HTTPError"
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=18638&extension=ts&play_token=Ww38qH3LB4",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "HTTPError"
         }
       ]
     },
@@ -1584,15 +1570,13 @@
     {
       "name": "YABAN TV",
       "category": "Belgesel",
-      "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197439&extension=ts&play_token=TfLVZnUFoE",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197439&extension=ts&play_token=TfLVZnUFoE",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200"
+          "ok": false,
+          "reason": "HTTPError"
         }
       ]
     },
@@ -1697,9 +1681,7 @@
     {
       "name": "CARTOON NETWORK",
       "category": "Çocuk",
-      "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197411&extension=ts&play_token=6Vh9e7AwnI",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "status": "not_found",
       "attempts": [
         {
           "url": "https://nord.ayakkabiparti.lol/cartoonnetwork/index.m3u8",
@@ -1710,8 +1692,14 @@
         {
           "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197411&extension=ts&play_token=6Vh9e7AwnI",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200"
+          "ok": false,
+          "reason": "HTTPError"
+        },
+        {
+          "url": "http://176.65.153.12:6002/play/a05x/index.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "URLError"
         }
       ]
     },
