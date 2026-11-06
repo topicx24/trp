@@ -159,7 +159,7 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197436&exte
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197420&extension=ts&play_token=mT2OGR6h9B
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/715px-Viasat_Explore.png" tvg-name="VIASAT EXPLORE" group-title="Belgesel",VIASAT EXPLORE
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197442&extension=ts&play_token=T0Qe2W6ku7
-#EXTINF:-1 tvg-name="BEIN IZ" group-title="Belgesel",BEIN IZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn4YjX2g/Be-IN-IZ--removebg-preview.png" tvg-name="BEIN IZ" group-title="Belgesel",BEIN IZ
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19078/index.m3u8
 #EXTINF:-1 tvg-name="LOVE NATURE" group-title="Belgesel",LOVE NATURE
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197434&extension=ts&play_token=Ngkcs4n1xj
@@ -174,7 +174,7 @@ https://vavoo.biz-az.workers.dev/play/385695705243789b6f2c45.m3u8
 #EXTINF:-1 tvg-name="ÇİFTÇİ TV" group-title="Belgesel",ÇİFTÇİ TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 #EXTINF:-1 tvg-name="TRT ÇOCUK" group-title="Çocuk",TRT ÇOCUK
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197417&extension=ts&play_token=uFQW2KSLfI
 #EXTINF:-1 tvg-name="MİNİKA ÇOCUK" group-title="Çocuk",MİNİKA ÇOCUK
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
 #EXTINF:-1 tvg-name="MİNİKA GO" group-title="Çocuk",MİNİKA GO
@@ -1041,6 +1041,8 @@ https://vrttv.ozelip.com:3278/hybrid/play.m3u8
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,W=375,FIT=CROP/AQ2ZK1ZK5WSMOKLL/LUYS-LOGO-MV0LOKJNE3TK8OVR.PNG" tvg-name="W=375,FIT=CROP/AQ2ZK1ZK5WSMOKLL/LUYS-LOGO-MV0LOKJNE3TK8OVR.PNG"" group-title="Diğer",W=375,FIT=CROP/AQ2ZK1ZK5WSMOKLL/LUYS-LOGO-MV0LOKJNE3TK8OVR.PNG"
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/mt_2.m3u8
+#EXTINF:-1 tvg-name="Website : dailyfreeadultiptv.wordpress.com" group-title="Diğer",Website : dailyfreeadultiptv.wordpress.com
+https://ovhv47.twincdn.com/videos/30/30429/30429_720p.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLJwfwSZ/Xəzər-TV-(2023).png" tvg-name="XAZER TV" group-title="Diğer",XAZER TV
 https://xezerxeber.az/stream/main_stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLYLWpNZ/38683545-ico.png" tvg-name="YANSIMA MÜZİK TV" group-title="Diğer",YANSIMA MÜZİK TV

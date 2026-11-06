@@ -1,10 +1,10 @@
 {
   "total_channels": 192,
-  "matched": 91,
-  "not_found": 101,
-  "source_count": 2,
-  "candidate_count": 1254,
-  "indexed_channels": 750,
+  "matched": 90,
+  "not_found": 102,
+  "source_count": 3,
+  "candidate_count": 1302,
+  "indexed_channels": 751,
   "timeout": 15,
   "max_candidates_per_channel": 20,
   "source_errors": [],
@@ -1495,15 +1495,13 @@
     {
       "name": "BEIN IZ",
       "category": "Belgesel",
-      "status": "working",
-      "url": "http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19078/index.m3u8",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19078/index.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200"
+          "ok": false,
+          "reason": "HTTPError"
         }
       ]
     },
@@ -1633,11 +1631,23 @@
       "name": "TRT ÇOCUK",
       "category": "Çocuk",
       "status": "working",
-      "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
+      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197417&extension=ts&play_token=uFQW2KSLfI",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "attempts": [
         {
           "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "HTTPError"
+        },
+        {
+          "url": "https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "HTTPError"
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197417&extension=ts&play_token=uFQW2KSLfI",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200"
