@@ -4,7 +4,7 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197438&exte
 #EXTINF:-1 tvg-name="TRT 1" group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT 2" group-title="Ulusal",TRT 2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196688&extension=ts&play_token=xSvgymKo8X
 #EXTINF:-1 tvg-name="ATV" group-title="Ulusal",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-name="BEYAZ TV" group-title="Ulusal",BEYAZ TV
@@ -145,9 +145,9 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197441&exte
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197435&extension=ts&play_token=mL6NJCd1ow
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL" group-title="Belgesel",DISCOVERY CHANNEL
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197427&extension=ts&play_token=rXjLa9bDy7
-#EXTINF:-1 tvg-name="NAT GEO" group-title="Belgesel",NAT GEO
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197433&extension=ts&play_token=vIAFFKePWW
-#EXTINF:-1 tvg-name="NAT GEO WILD" group-title="Belgesel",NAT GEO WILD
+#EXTINF:-1 tvg-id="TR" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/national-geographic-hd-buyuk.png" tvg-name="NAT GEO" group-title="Belgesel",NAT GEO
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/National_Geographic_Wild_logo.svg.png" tvg-name="NAT GEO WILD" group-title="Belgesel",NAT GEO WILD
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197432&extension=ts&play_token=EgZySyAGug
 #EXTINF:-1 tvg-name="DMAX" group-title="Belgesel",DMAX
 https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
@@ -159,7 +159,7 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197436&exte
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197420&extension=ts&play_token=mT2OGR6h9B
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/715px-Viasat_Explore.png" tvg-name="VIASAT EXPLORE" group-title="Belgesel",VIASAT EXPLORE
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197442&extension=ts&play_token=T0Qe2W6ku7
-#EXTINF:-1 tvg-name="BEIN IZ" group-title="Belgesel",BEIN IZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jn4YjX2g/Be-IN-IZ--removebg-preview.png" tvg-name="BEIN IZ" group-title="Belgesel",BEIN IZ
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19078/index.m3u8
 #EXTINF:-1 tvg-name="LOVE NATURE" group-title="Belgesel",LOVE NATURE
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197434&extension=ts&play_token=Ngkcs4n1xj
