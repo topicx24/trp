@@ -1,0 +1,34 @@
+name: Günlük M3U Güncelleyici
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Her gece Türkiye saati ile 03:00'te otomatik çalışır
+  workflow_dispatch: # İstediğiniz an manuel tetiklemek için buton ekler
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Depoyu Klonla
+      uses: actions/checkout@v3
+
+    - name: Node.js Kurulumu
+      uses: actions/setup-node@v3
+      with:
+        node-size: 18
+
+    - name: Bağımlılıkları Yükle
+      run: npm install
+
+    - name: Scripti Çalıştır ve M3U Üret
+      env:
+        TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }} # GitHub'a gizlediğimiz anahtarı çağırır
+      run: npm start
+
+    - name: Değişiklikleri Kaydet ve GitHub'a Yükle
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add filmler/film_arsivi.m3u
+        git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Günlük otomatik M3U güncellemesi" && git push)
