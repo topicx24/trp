@@ -1,10 +1,10 @@
 {
   "total_channels": 192,
-  "matched": 90,
-  "not_found": 102,
+  "matched": 89,
+  "not_found": 103,
   "source_count": 7,
-  "candidate_count": 16651,
-  "indexed_channels": 14211,
+  "candidate_count": 16652,
+  "indexed_channels": 14212,
   "timeout": 15,
   "max_candidates_per_channel": 20,
   "source_errors": [],
@@ -1576,15 +1576,13 @@
     {
       "name": "YABAN TV",
       "category": "Belgesel",
-      "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197439&extension=ts&play_token=TfLVZnUFoE",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197439&extension=ts&play_token=TfLVZnUFoE",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200"
+          "ok": false,
+          "reason": "HTTPError"
         }
       ]
     },

@@ -166,7 +166,7 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197434&exte
 #EXTINF:-1 tvg-name="TGRT BELGESEL" group-title="Belgesel",TGRT BELGESEL
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8?md5=yJ4adbAK5bE0F93vqFevgw&expires=1687122603
 #EXTINF:-1 tvg-name="YABAN TV" group-title="Belgesel",YABAN TV
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197439&extension=ts&play_token=TfLVZnUFoE
+http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=197439&extension=ts
 #EXTINF:-1 tvg-name="HABITAT TV" group-title="Belgesel",HABITAT TV
 http://176.65.153.7:6004/play/a024/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wb61NL6k/tarihtv-beyaz.png" tvg-name="TARİH TV" group-title="Belgesel",TARİH TV
@@ -8459,6 +8459,8 @@ http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/262174.mp4
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/262175.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFJpWzq0/1708069491985.jpg" tvg-name="KRT" group-title="Diğer",KRT
 http://umperisn.mywire.org/index.php?id=594231&token=DeaTHLesS
+#EXTINF:-1 tvg-id="KRT.tr@SD" tvg-name="KRT (1080p)" group-title="Diğer",KRT (1080p)
+https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/krthd.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/krt%20(2).png" tvg-name="KRT TV" group-title="Diğer",KRT TV
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197195&extension=ts&play_token=ALQMMnvJJp
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Kud%C3%BCs_TV.png" tvg-name="KUDUS TV" group-title="Diğer",KUDUS TV
