@@ -1,5 +1,5 @@
 
-name: CAN TV Playlist Güncelle
+name: trp Playlist Güncelle
 
 on:
   workflow_dispatch:
