@@ -37,14 +37,12 @@ https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 http://umperisn.mywire.org/index.php?id=594236&token=DeaTHLesS
 #EXTINF:-1 tvg-name="TRT HABER" group-title="Haber",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="HaberGlobal.tr@SD" tvg-name="HABER GLOBAL" group-title="Haber",HABER GLOBAL
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-name="HABER GLOBAL" group-title="Haber",HABER GLOBAL
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197268&extension=ts&play_token=tGkC8erhpz
 #EXTINF:-1 tvg-name="CNN TÜRK" group-title="Haber",CNN TÜRK
 https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8
 #EXTINF:-1 tvg-name="TV NET" group-title="Haber",TV NET
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197257&extension=ts&play_token=hQlsXbvuXH
-#EXTINF:-1 tvg-name="24" group-title="Haber",24
-https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 tvg-name="ÜLKE TV" group-title="Haber",ÜLKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 tvg-name="NTV" group-title="Haber",NTV
@@ -58,7 +56,7 @@ https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-name="TV100" group-title="Haber",TV100
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197273&extension=ts&play_token=fIy9sX6ocp
 #EXTINF:-1 tvg-name="A HABER" group-title="Haber",A HABER
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197288&extension=ts&play_token=5Ikrg2T6or
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197259&extension=ts&play_token=lETzv8vz
 #EXTINF:-1 tvg-name="FLASH HABER" group-title="Haber",FLASH HABER
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_0.m3u8
 #EXTINF:-1 tvg-name="ULUSAL KANAL" group-title="Haber",ULUSAL KANAL
@@ -66,7 +64,7 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197178&exte
 #EXTINF:-1 tvg-name="TRT WORLD" group-title="Haber",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT SPOR" group-title="Spor",TRT SPOR
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=615826&extension=ts&play_token=NKaM9BVBIs
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=709&extension=ts&play_token=AN3cSmXfyI
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" group-title="Spor",TRT SPOR YILDIZ
 http://umperisn.mywire.org/index.php?id=2019&token=DeaTHLesS
 #EXTINF:-1 tvg-name="A SPOR" group-title="Spor",A SPOR
@@ -101,15 +99,15 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197361&exte
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerDance.tr@SD" tvg-name="POWER" group-title="Müzik",POWER
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PowerTurkTV.tr@SD" tvg-name="POWER TÜRK" group-title="Müzik",POWER TÜRK
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="POWER TÜRK" group-title="Müzik",POWER TÜRK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197364&extension=ts&play_token=FkdL4n4O9g
 #EXTINF:-1 tvg-name="POWER TÜRK SLOW" group-title="Müzik",POWER TÜRK SLOW
 https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="POWER TÜRK TAPTAZE" group-title="Müzik",POWER TÜRK TAPTAZE
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="NR1" group-title="Müzik",NR1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/nr1turk.png" tvg-name="NR1 TÜRK" group-title="Müzik",NR1 TÜRK
+#EXTINF:-1 tvg-name="NR1 TÜRK" group-title="Müzik",NR1 TÜRK
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197358&extension=ts&play_token=7iPd5Weu0a
 #EXTINF:-1 tvg-name="DİYANET TV" group-title="Dini",DİYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
@@ -158,7 +156,7 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197439&exte
 #EXTINF:-1 tvg-name="ÇİFTÇİ TV" group-title="Belgesel",ÇİFTÇİ TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 #EXTINF:-1 tvg-name="TRT ÇOCUK" group-title="Çocuk",TRT ÇOCUK
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197417&extension=ts&play_token=uFQW2KSLfI
 #EXTINF:-1 tvg-name="MİNİKA ÇOCUK" group-title="Çocuk",MİNİKA ÇOCUK
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
 #EXTINF:-1 tvg-name="MİNİKA GO" group-title="Çocuk",MİNİKA GO
@@ -169,7 +167,7 @@ http://176.65.153.40:6002/play/a013/index.m3u8
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197418&extension=ts&play_token=pFntdTqMqE
 #EXTINF:-1 tvg-name="BLOOMBERGHT" group-title="Ekonomi",BLOOMBERGHT
 http://193.123.61.120:3000/kanal/bloomberght
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/TRAPARATV.png" tvg-name="A PARA" group-title="Ekonomi",A PARA
+#EXTINF:-1 tvg-name="A PARA" group-title="Ekonomi",A PARA
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197272&extension=ts&play_token=YMedtQj0VQ
 #EXTINF:-1 tvg-id="Ekoturk.tr@SD" tvg-name="EKOTURK" group-title="Ekonomi",EKOTURK
 https://cdn.ekoturk.net/hls/master.m3u8
@@ -185,7 +183,7 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT ARABİ" group-title="Uluslararası",TRT ARABİ
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/HABER/A NEWS .png" tvg-name="A NEWS" group-title="Uluslararası",A NEWS
+#EXTINF:-1 tvg-name="A NEWS" group-title="Uluslararası",A NEWS
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197271&extension=ts&play_token=Nx8VX4UaJj
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYL6cLc0/CGTN-Documentary-svg.webp" tvg-name="CGTN" group-title="Uluslararası",CGTN
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
@@ -3040,7 +3038,7 @@ http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/245190.mp4
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/24haber.png" tvg-name="24 HABER" group-title="Diğer",24 HABER
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197270&extension=ts&play_token=kbSCfqIRQ7
 #EXTINF:-1 tvg-name="24 TV" group-title="Diğer",24 TV
-https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 tvg-name="25.Year.Old.Beauty" group-title="Diğer",25.Year.Old.Beauty
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/260508.mp4
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/2itchen.png" tvg-name="2ITCHEN" group-title="Diğer",2ITCHEN
