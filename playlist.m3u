@@ -4,7 +4,7 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197438&exte
 #EXTINF:-1 tvg-name="TRT 1" group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT 2" group-title="Ulusal",TRT 2
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196688&extension=ts&play_token=xSvgymKo8X
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="ATV" group-title="Ulusal",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-name="BEYAZ TV" group-title="Ulusal",BEYAZ TV
@@ -41,7 +41,7 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197268&extension=ts&play_token=tGkC8erhpz
 #EXTINF:-1 tvg-name="CNN TÜRK" group-title="Haber",CNN TÜRK
 https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8
-#EXTINF:-1 tvg-name="TV NET" group-title="Haber",TV NET
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/there.png" tvg-name="TV NET" group-title="Haber",TV NET
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197257&extension=ts&play_token=hQlsXbvuXH
 #EXTINF:-1 tvg-name="24" group-title="Haber",24
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
@@ -75,7 +75,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-name="TJK TV" group-title="Spor",TJK TV
 https://tjktv-live.tjk.org/tjktv_1080p.m3u8
-#EXTINF:-1 tvg-name="EUROSPORT 1" group-title="Spor",EUROSPORT 1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Eurosport.png" tvg-name="EUROSPORT 1" group-title="Spor",EUROSPORT 1
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=708&extension=ts&play_token=9HxnbsQNIJ
 #EXTINF:-1 tvg-name="EUROSPORT 2" group-title="Spor",EUROSPORT 2
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=707&extension=ts&play_token=2mg4QJgGT9
@@ -94,7 +94,7 @@ http://176.65.153.66:6003/play/a00y/index.m3u8
 #EXTINF:-1 tvg-name="FB TV" group-title="Spor",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT MÜZİK" group-title="Müzik",TRT MÜZİK
-https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
+http://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="KRAL TV" group-title="Müzik",KRAL TV
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 tvg-name="KRAL POP" group-title="Müzik",KRAL POP
@@ -103,8 +103,8 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197361&exte
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerDance.tr@SD" tvg-name="POWER" group-title="Müzik",POWER
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PowerTurkTV.tr@SD" tvg-name="POWER TÜRK" group-title="Müzik",POWER TÜRK
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="POWER TÜRK" group-title="Müzik",POWER TÜRK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197364&extension=ts&play_token=FkdL4n4O9g
 #EXTINF:-1 tvg-name="POWER TÜRK SLOW" group-title="Müzik",POWER TÜRK SLOW
 https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="POWER TÜRK TAPTAZE" group-title="Müzik",POWER TÜRK TAPTAZE
@@ -124,15 +124,15 @@ https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-name="SİNEMA TV" group-title="Sinema",SİNEMA TV
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
 #EXTINF:-1 tvg-name="SİNEMA TV 2" group-title="Sinema",SİNEMA TV 2
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471689&extension=ts&play_token=rlz9LlxLPS
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197129&extension=ts&play_token=zLg0pNC7FA
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/MOVIESMART.png" tvg-name="MOVIESMART" group-title="Sinema",MOVIESMART
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471684&extension=ts&play_token=txJYZNZE6k
-#EXTINF:-1 tvg-name="MOVIESMART TÜRK" group-title="Sinema",MOVIESMART TÜRK
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471685&extension=ts&play_token=t39wCHGH3S
+#EXTINF:-1 tvg-id="MovieSmartTurk.tr@SD" tvg-name="MOVIESMART TÜRK" group-title="Sinema",MOVIESMART TÜRK
+http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174
 #EXTINF:-1 tvg-name="DİZİ SMART MAX" group-title="Dizi",DİZİ SMART MAX
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471682&extension=ts&play_token=BtvB09wPcF
-#EXTINF:-1 tvg-name="TRT BELGESEL" group-title="Belgesel",TRT BELGESEL
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197441&extension=ts&play_token=2YxNaeWuvv
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197140&extension=ts&play_token=IsxEkfERFU
+#EXTINF:-1 tvg-id="TRTBelgesel.tr@SD" tvg-name="TRT BELGESEL" group-title="Belgesel",TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Discovery_Science_2017_Logo.png" tvg-name="DISCOVERY" group-title="Belgesel",DISCOVERY
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197435&extension=ts&play_token=mL6NJCd1ow
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL" group-title="Belgesel",DISCOVERY CHANNEL
@@ -149,7 +149,7 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197431&exte
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197420&extension=ts&play_token=mT2OGR6h9B
 #EXTINF:-1 tvg-name="VIASAT EXPLORE" group-title="Belgesel",VIASAT EXPLORE
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197442&extension=ts&play_token=T0Qe2W6ku7
-#EXTINF:-1 tvg-name="LOVE NATURE" group-title="Belgesel",LOVE NATURE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Love_Nature_TV.png" tvg-name="LOVE NATURE" group-title="Belgesel",LOVE NATURE
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197434&extension=ts&play_token=Ngkcs4n1xj
 #EXTINF:-1 tvg-name="TGRT BELGESEL" group-title="Belgesel",TGRT BELGESEL
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8?md5=yJ4adbAK5bE0F93vqFevgw&expires=1687122603
@@ -7383,8 +7383,8 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197416&exte
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="DiyarTV.tr@SD" tvg-name="Diyar TV (720p)" group-title="Diğer",Diyar TV (720p)
 https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/dizzismart.png" tvg-name="DIZISMART MAX" group-title="Diğer",DIZISMART MAX
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197140&extension=ts&play_token=IsxEkfERFU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/DIZISMART MAX.png" tvg-name="DIZISMART MAX" group-title="Diğer",DIZISMART MAX
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471682&extension=ts&play_token=BtvB09wPcF
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/DiziSmartPremium.tr.png" tvg-name="DIZISMART PREMIUM" group-title="Diğer",DIZISMART PREMIUM
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197141&extension=ts&play_token=DviKGVpwou
 #EXTINF:-1 tvg-name="DogFartNetwork.com.Kayla.Kayden" group-title="Diğer",DogFartNetwork.com.Kayla.Kayden
@@ -9507,7 +9507,7 @@ http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/260593.mp4
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/263412.mp4
 #EXTINF:-1 tvg-name="ValentinaNappi" group-title="Diğer",ValentinaNappi
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/245423.mp4
-#EXTINF:-1 tvg-id="Van65TV.tr@SD" tvg-name="Van 65 TV" group-title="Diğer",Van 65 TV
+#EXTINF:-1 tvg-id="Van65TV.tr@SD" tvg-name="Van 65 TV (720p)" group-title="Diğer",Van 65 TV (720p)
 https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vantv.tr/wp-content/uploads/2024/08/vantv-logo-scaled.png" tvg-name="VAN TV" group-title="Diğer",VAN TV
 https://raw.githubusercontent.com/ibrahim9071/kick/refs/heads/main/streams/vantv.m3u8
