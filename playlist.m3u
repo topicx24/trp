@@ -207,7 +207,7 @@ https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197271&extension=ts&play_token=Nx8VX4UaJj
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYL6cLc0/CGTN-Documentary-svg.webp" tvg-name="CGTN" group-title="Uluslararası",CGTN
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vB422HNM/Rossiya-24-Logo-svg.webp" tvg-name="RUSSIA 24" group-title="Uluslararası",RUSSIA 24
+#EXTINF:-1 tvg-name="RUSSIA 24" group-title="Uluslararası",RUSSIA 24
 https://gtrk-volga.ru/media/hr24/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Y6aWHoUwgQ.png" tvg-name="Radyo" group-title="Radyo",Radyo
 http://46.20.3.231:80/;
