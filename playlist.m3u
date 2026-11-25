@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="TRT 4K" group-title="Ulusal",TRT 4K
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197438&extension=ts&play_token=zkjkoH1DCe
 #EXTINF:-1 tvg-name="TRT 1" group-title="Ulusal",TRT 1
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196699&extension=ts&play_token=vmAan78Qyz
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT 2" group-title="Ulusal",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="ATV" group-title="Ulusal",ATV
@@ -30,11 +30,11 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-name="EKOL TV" group-title="Ulusal",EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-name="KANAL B" group-title="Ulusal",KANAL B
-https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
+https://tv.kanalb.tr/hls/kanalb/1_2/index.m3u8
 #EXTINF:-1 tvg-name="BENGÜTÜRK" group-title="Ulusal",BENGÜTÜRK
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-name="AKİT TV" group-title="Haber",AKİT TV
-http://umperisn.mywire.org/index.php?id=594236&token=DeaTHLesS
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197233&extension=ts&play_token=5x13V8PrEV
 #EXTINF:-1 tvg-name="TRT HABER" group-title="Haber",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="HABER GLOBAL" group-title="Haber",HABER GLOBAL
@@ -68,7 +68,7 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT SPOR" group-title="Spor",TRT SPOR
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=709&extension=ts&play_token=AN3cSmXfyI
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" group-title="Spor",TRT SPOR YILDIZ
-http://umperisn.mywire.org/index.php?id=2019&token=DeaTHLesS
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=18644&extension=ts&play_token=6fextF0Ovq
 #EXTINF:-1 tvg-name="A SPOR" group-title="Spor",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-name="HT SPOR" group-title="Spor",HT SPOR
@@ -79,16 +79,10 @@ https://tjktv-live.tjk.org/tjktv_1080p.m3u8
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=708&extension=ts&play_token=9HxnbsQNIJ
 #EXTINF:-1 tvg-name="EUROSPORT 2" group-title="Spor",EUROSPORT 2
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=707&extension=ts&play_token=2mg4QJgGT9
-#EXTINF:-1 tvg-id="oz.43318fc763044681a79c671eb9755b2b" tvg-logo="https://logo.cloudzone55.store/spor/nbatv.png" tvg-name="NBA TV" group-title="Spor",NBA TV
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/43318fc7-6304-4681-a79c-671eb9755b2b.ts
-#EXTINF:-1 tvg-id="oz.f15927aed34c4efd98a0d684456961ff" tvg-logo="https://logo.cloudzone55.store/spor/cbc.png" tvg-name="CBC SPORT" group-title="Spor",CBC SPORT
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/f15927ae-d34c-4efd-98a0-d684456961ff.ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Ssport.png" tvg-name="S SPORT" group-title="Spor",S SPORT
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=712&extension=ts&play_token=7rAaz1UJiX
 #EXTINF:-1 tvg-name="S SPORT 2" group-title="Spor",S SPORT 2
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=711&extension=ts&play_token=ROKTmEEyZj
-#EXTINF:-1 tvg-id="SPORTS.TV..tr" tvg-logo="https://logo.cloudzone55.store/spor/sportstv.png" tvg-name="SPORTS TV" group-title="Spor",SPORTS TV
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/a67c297b-8b19-46b8-9bc6-a8db9f7b6ca6.ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/sporsmart.png" tvg-name="SPOR SMART" group-title="Spor",SPOR SMART
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=713&extension=ts&play_token=QWIXpgpYhS
 #EXTINF:-1 tvg-name="SPOR SMART 2" group-title="Spor",SPOR SMART 2
@@ -127,20 +121,16 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LALEGÜL TV" group-title="Dini",LALEGÜL TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
-#EXTINF:-1 tvg-id="oz.f45dc38695df440e971b8b355b814fca" tvg-logo="https://logo.cloudzone55.store/sinema/beinmoviepremeire.png" tvg-name="BEIN MOVIES PREMIERE" group-title="Sinema",BEIN MOVIES PREMIERE
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/f45dc386-95df-440e-971b-8b355b814fca.ts
-#EXTINF:-1 tvg-id="oz.240769ea36564814b292c28372393ce9" tvg-logo="https://logo.cloudzone55.store/ek1/beinmoviepremier2.png" tvg-name="BEIN MOVIES PREMIERE 2" group-title="Sinema",BEIN MOVIES PREMIERE 2
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/240769ea-3656-4814-b292-c28372393ce9.ts
-#EXTINF:-1 tvg-id="oz.9aa2fa3492de4430bdef7867fd6309f4" tvg-logo="https://logo.cloudzone55.store/kanal/bein-turk.png" tvg-name="BEIN MOVIES TURK" group-title="Sinema",BEIN MOVIES TURK
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/9aa2fa34-92de-4430-bdef-7867fd6309f4.ts
-#EXTINF:-1 tvg-id="oz.e39c8ab63547474299129fe74f5e67f0" tvg-logo="https://logo.cloudzone55.store/sinema/beinmoviesstas.png" tvg-name="BEIN MOVIES STARS" group-title="Sinema",BEIN MOVIES STARS
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/e39c8ab6-3547-4742-9912-9fe74f5e67f0.ts
-#EXTINF:-1 tvg-id="oz.c5429af160fb4d0c868adad516fa1ea4" tvg-logo="https://logo.cloudzone55.store/sinema/beinmoviesaction.png" tvg-name="BEIN MOVIES ACTION" group-title="Sinema",BEIN MOVIES ACTION
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/c5429af1-60fb-4d0c-868a-dad516fa1ea4.ts
-#EXTINF:-1 tvg-id="oz.208467ed0ba84b72944daea8b3c35e53" tvg-logo="https://logo.cloudzone55.store/ek2/beinaksiyon2.png" tvg-name="BEIN MOVIES ACTION 2" group-title="Sinema",BEIN MOVIES ACTION 2
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/208467ed-0ba8-4b72-944d-aea8b3c35e53.ts
-#EXTINF:-1 tvg-id="oz.c8df390bcc9d42949fcd8c64c66a39ea" tvg-logo="https://logo.cloudzone55.store/sinema/beinmoviefamily.png" tvg-name="BEIN MOVIES FAMILY" group-title="Sinema",BEIN MOVIES FAMILY
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/c8df390b-cc9d-4294-9fcd-8c64c66a39ea.ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES ACTION.png" tvg-name="BEIN MOVIES TURK" group-title="Sinema",BEIN MOVIES TURK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471677&extension=ts&play_token=wYvQ6VQYYA
+#EXTINF:-1 tvg-name="BEIN MOVIES STARS" group-title="Sinema",BEIN MOVIES STARS
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471680&extension=ts&play_token=mZ2ehyWIXk
+#EXTINF:-1 tvg-name="BEIN BOXOFFICE 1" group-title="Sinema",BEIN BOXOFFICE 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197154&extension=ts&play_token=DhHmxaaEy1
+#EXTINF:-1 tvg-name="BEIN BOXOFFICE 2" group-title="Sinema",BEIN BOXOFFICE 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197153&extension=ts&play_token=X6RnnsIbuZ
+#EXTINF:-1 tvg-name="BEIN BOXOFFICE 3" group-title="Sinema",BEIN BOXOFFICE 3
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197152&extension=ts&play_token=fkElbmWwon
 #EXTINF:-1 tvg-name="SİNEMA TV" group-title="Sinema",SİNEMA TV
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
 #EXTINF:-1 tvg-name="SİNEMA TV 2" group-title="Sinema",SİNEMA TV 2
@@ -149,18 +139,14 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197129&exte
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471684&extension=ts&play_token=txJYZNZE6k
 #EXTINF:-1 tvg-name="MOVIESMART TÜRK" group-title="Sinema",MOVIESMART TÜRK
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471685&extension=ts&play_token=t39wCHGH3S
-#EXTINF:-1 tvg-id="BeIn.Series..1.eg" tvg-logo="https://logo.cloudzone55.store/ek2/beindrama.png" tvg-name="BEIN SERIES 1" group-title="Dizi",BEIN SERIES 1
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/95f7b02c-2ef6-4093-a775-363dbca8732d.ts
-#EXTINF:-1 tvg-id="oz.d03ac11a7d5b4319a59ef77f94e1334d" tvg-logo="https://logo.cloudzone55.store/ek2/beincomedy.png" tvg-name="BEIN SERIES 2" group-title="Dizi",BEIN SERIES 2
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/d03ac11a-7d5b-4319-a59e-f77f94e1334d.ts
-#EXTINF:-1 tvg-id="oz.61dc4033b65e481d93732460d26be826" tvg-logo="https://logo.cloudzone55.store/sinema/beinseriesvice.png" tvg-name="BEIN SERIES 3" group-title="Dizi",BEIN SERIES 3
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/61dc4033-b65e-481d-9373-2460d26be826.ts
-#EXTINF:-1 tvg-id="oz.1179492c59c14dbfb1faff4adf0b87d5" tvg-logo="https://logo.cloudzone55.store/sinema/beinseriesscfi.png" tvg-name="BEIN SERIES 4" group-title="Dizi",BEIN SERIES 4
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/1179492c-59c1-4dbf-b1fa-ff4adf0b87d5.ts
+#EXTINF:-1 tvg-name="BEIN SERIES 1" group-title="Dizi",BEIN SERIES 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197146&extension=ts&play_token=1rohPQEEBT
+#EXTINF:-1 tvg-name="BEIN SERIES 2" group-title="Dizi",BEIN SERIES 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197148&extension=ts&play_token=AZ1nfBwDC5
+#EXTINF:-1 tvg-name="BEIN SERIES 4" group-title="Dizi",BEIN SERIES 4
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197150&extension=ts&play_token=Qyg7xZtKPS
 #EXTINF:-1 tvg-name="DİZİ SMART MAX" group-title="Dizi",DİZİ SMART MAX
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471682&extension=ts&play_token=BtvB09wPcF
-#EXTINF:-1 tvg-id="BBC.FIRST.tr" tvg-logo="https://logo.cloudzone55.store/belgesel/bbc-first.png" tvg-name="BBC FIRST" group-title="Dizi",BBC FIRST
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/693b652d-6aa0-49c8-933a-29d873130ab3.ts
 #EXTINF:-1 tvg-name="TRT BELGESEL" group-title="Belgesel",TRT BELGESEL
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197441&extension=ts&play_token=2YxNaeWuvv
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Discovery_Science_2017_Logo.png" tvg-name="DISCOVERY" group-title="Belgesel",DISCOVERY
@@ -179,22 +165,16 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197431&exte
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197420&extension=ts&play_token=mT2OGR6h9B
 #EXTINF:-1 tvg-name="VIASAT EXPLORE" group-title="Belgesel",VIASAT EXPLORE
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197442&extension=ts&play_token=T0Qe2W6ku7
-#EXTINF:-1 tvg-id="oz.61c69d5064da474398f167dae4e34354" tvg-logo="https://logo.cloudzone55.store/belgesel/beiniz.png" tvg-name="BEIN IZ" group-title="Belgesel",BEIN IZ
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/61c69d50-64da-4743-98f1-67dae4e34354.ts
+#EXTINF:-1 tvg-name="BEIN IZ" group-title="Belgesel",BEIN IZ
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197425&extension=ts&play_token=ZLI7ilYODf
 #EXTINF:-1 tvg-name="LOVE NATURE" group-title="Belgesel",LOVE NATURE
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197434&extension=ts&play_token=Ngkcs4n1xj
 #EXTINF:-1 tvg-name="TGRT BELGESEL" group-title="Belgesel",TGRT BELGESEL
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8?md5=yJ4adbAK5bE0F93vqFevgw&expires=1687122603
 #EXTINF:-1 tvg-name="YABAN TV" group-title="Belgesel",YABAN TV
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197439&extension=ts&play_token=TfLVZnUFoE
-#EXTINF:-1 tvg-id="HABİTAT.TV.tr" tvg-logo="https://logo.cloudzone55.store/belgesel/habitat.png" tvg-name="HABITAT TV" group-title="Belgesel",HABITAT TV
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/36a79040-b3b1-469d-86f1-ca4528977ea1.ts
-#EXTINF:-1 tvg-id="TARIH.TV.tr" tvg-logo="https://logo.cloudzone55.store/belgesel/tarimtv.png" tvg-name="TARİH TV" group-title="Belgesel",TARİH TV
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/70cae976-5e95-4a7c-8469-fef3856fb007.ts
 #EXTINF:-1 tvg-name="ÇİFTÇİ TV" group-title="Belgesel",ÇİFTÇİ TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
-#EXTINF:-1 tvg-id="Chasse.&.Pêche.fr" tvg-logo="https://logo.cloudzone55.store/belgesel/chasse.png" tvg-name="CHASSE & PECHE" group-title="Belgesel",CHASSE & PECHE
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/dea5fad5-14b2-4cce-9f87-ab113953c371.ts
 #EXTINF:-1 tvg-name="TRT ÇOCUK" group-title="Çocuk",TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="MİNİKA ÇOCUK" group-title="Çocuk",MİNİKA ÇOCUK
@@ -215,8 +195,6 @@ https://cdn.ekoturk.net/hls/master.m3u8
 https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
 #EXTINF:-1 tvg-name="LIFETIME" group-title="Yaşam",LIFETIME
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/245350.mp4
-#EXTINF:-1 tvg-id="TARIM.TV.tr" tvg-logo="https://logo.cloudzone55.store/2/tarimtv.png" tvg-name="TARIM TV" group-title="Tarım",TARIM TV
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/e00b8d1e-8f3b-46c0-8741-358beff7dbd5.ts
 #EXTINF:-1 tvg-name="TRT TÜRK" group-title="Uluslararası",TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT AVAZ" group-title="Uluslararası",TRT AVAZ
@@ -6811,6 +6789,18 @@ http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/262631.mp4
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/262632.mp4
 #EXTINF:-1 tvg-name="Behind.the.Scenes3" group-title="Diğer",Behind.the.Scenes3
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/262633.mp4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 1.png" tvg-name="BEIN BOX OFFICE 1" group-title="Diğer",BEIN BOX OFFICE 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471698&extension=ts&play_token=ZzrLzmL66r
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 2.png" tvg-name="BEIN BOX OFFICE 2" group-title="Diğer",BEIN BOX OFFICE 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471699&extension=ts&play_token=vtxTsTkH2o
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 3.png" tvg-name="BEIN BOX OFFICE 3" group-title="Diğer",BEIN BOX OFFICE 3
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471700&extension=ts&play_token=i0YM1UnDab
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_gurme.png" tvg-name="BEIN GURME" group-title="Diğer",BEIN GURME
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197426&extension=ts&play_token=z6b3kUSeDy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES PREMIERE.png" tvg-name="BEIN MOVIES PREMIER 2" group-title="Diğer",BEIN MOVIES PREMIER 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471679&extension=ts&play_token=5Re2g5Y61Q
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES PREMIERE.png" tvg-name="BEINMOVIESPREMIERYEDEK" group-title="Diğer",BEINMOVIESPREMIERYEDEK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471678&extension=ts&play_token=pCSHS8y6a9
 #EXTINF:-1 tvg-name="Bella.Moretti.Chris.Johnson" group-title="Diğer",Bella.Moretti.Chris.Johnson
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/262634.mp4
 #EXTINF:-1 tvg-name="Bella.Starr.Maliyah.Madison" group-title="Diğer",Bella.Starr.Maliyah.Madison
@@ -6849,7 +6839,7 @@ http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/262638.mp4
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/262639.mp4
 #EXTINF:-1 tvg-name="bgb.harlow.harrison.bb100615.480p.1000" group-title="Diğer",bgb.harlow.harrison.bb100615.480p.1000
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/263263.mp4
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/3lB9cL.png" tvg-name="Bİ TV" group-title="Diğer",Bİ TV
+#EXTINF:-1 tvg-id="BiKanal.tr@SD" tvg-name="Bi Kanal (1080p)" group-title="Diğer",Bi Kanal (1080p)
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 #EXTINF:-1 tvg-name="Bianca.Pureheart.Steven.St.Croix" group-title="Diğer",Bianca.Pureheart.Steven.St.Croix
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/262640.mp4
@@ -7507,8 +7497,6 @@ http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/262128.mp4
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/262725.mp4
 #EXTINF:-1 tvg-name="Elsa.Jean" group-title="Diğer",Elsa.Jean
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/263388.mp4
-#EXTINF:-1 tvg-id="ElsharqTV.tr@SD" tvg-logo="https://i.imgur.com/8vmfZb5.png" tvg-name="Elsharq TV  [Not 24/7]" group-title="Diğer",Elsharq TV  [Not 24/7]
-https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Ember.Sandra.Shine" group-title="Diğer",Ember.Sandra.Shine
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/262726.mp4
 #EXTINF:-1 tvg-name="ember.snow.some.intense.orgasms" group-title="Diğer",ember.snow.some.intense.orgasms
@@ -7607,22 +7595,6 @@ http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/245375.mp4
 #EXTINF:-1 tvg-name="ExtremeComixxxParody.cd1" group-title="Diğer",ExtremeComixxxParody.cd1
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/245376.mp4
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/exxensports.png" tvg-name="EXXEN SPORTS 1" group-title="Diğer",EXXEN SPORTS 1
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=15340&extension=ts&play_token=wNK4aVUruy
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/exxensports.png" tvg-name="EXXEN SPORTS 2" group-title="Diğer",EXXEN SPORTS 2
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=15341&extension=ts&play_token=zSABQW7fDf
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/exxensports.png" tvg-name="EXXEN SPORTS 3" group-title="Diğer",EXXEN SPORTS 3
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=15342&extension=ts&play_token=Pja6pkhpEZ
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/exxensports.png" tvg-name="EXXEN SPORTS 4 FHD" group-title="Diğer",EXXEN SPORTS 4 FHD
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=15515&extension=ts&play_token=MH3sitWFXZ
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/exxensports.png" tvg-name="EXXEN SPORTS 5 FHD" group-title="Diğer",EXXEN SPORTS 5 FHD
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=15516&extension=ts&play_token=5QGT1mdeQC
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/exxensports.png" tvg-name="EXXEN SPORTS 6 FHD" group-title="Diğer",EXXEN SPORTS 6 FHD
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=15517&extension=ts&play_token=FK6YuooHjs
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/exxensports.png" tvg-name="EXXEN SPORTS 7 FHD" group-title="Diğer",EXXEN SPORTS 7 FHD
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=15518&extension=ts&play_token=kL2deOUppq
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/exxensports.png" tvg-name="EXXEN SPORTS 8 FHD" group-title="Diğer",EXXEN SPORTS 8 FHD
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=15519&extension=ts&play_token=Pyxggqq1Tf
 #EXTINF:-1 tvg-name="FA20" group-title="Diğer",FA20
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/246036.mp4
 #EXTINF:-1 tvg-name="Facial" group-title="Diğer",Facial
@@ -7851,8 +7823,6 @@ http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/260448.mp4
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/260449.mp4
 #EXTINF:-1 tvg-id="IcelTV.tr@SD" tvg-name="Icel TV (720p) [Not 24/7]" group-title="Diğer",Icel TV (720p) [Not 24/7]
 https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Investigation_Discovery.png" tvg-name="ID" group-title="Diğer",ID
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197430&extension=ts&play_token=Vs7iaw7Nui
 #EXTINF:-1 tvg-name="IDGAF.Life.Chick.Pulls Out Her Mans Junk And Blows It During New Years Party!" group-title="Diğer",IDGAF.Life.Chick.Pulls Out Her Mans Junk And Blows It During New Years Party!
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/252113.mp4
 #EXTINF:-1 tvg-name="IhrFickerleinKommet" group-title="Diğer",IhrFickerleinKommet
@@ -8195,8 +8165,8 @@ http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/260455.mp4
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/262174.mp4
 #EXTINF:-1 tvg-name="Kristina.Black.Jason.Mccain" group-title="Diğer",Kristina.Black.Jason.Mccain
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/262175.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFJpWzq0/1708069491985.jpg" tvg-name="KRT" group-title="Diğer",KRT
-http://umperisn.mywire.org/index.php?id=594231&token=DeaTHLesS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/krt%20(2).png" tvg-name="KRT" group-title="Diğer",KRT
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197276&extension=ts&play_token=cqRGvvpTWt
 #EXTINF:-1 tvg-id="KRT.tr@SD" tvg-name="KRT (1080p)" group-title="Diğer",KRT (1080p)
 https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/krthd.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/krt%20(2).png" tvg-name="KRT TV" group-title="Diğer",KRT TV
@@ -8649,6 +8619,8 @@ http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/260572.mp4
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/260573.mp4
 #EXTINF:-1 tvg-name="Party.Girl" group-title="Diğer",Party.Girl
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/260482.mp4
+#EXTINF:-1 tvg-id="PatiTV.tr@SD" tvg-name="Pati TV (1080p)" group-title="Diğer",Pati TV (1080p)
+https://patitv.radyotelekomtv.com:3958/live/patitvlive.m3u8
 #EXTINF:-1 tvg-name="Patra.Anal" group-title="Diğer",Patra.Anal
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/261147.mp4
 #EXTINF:-1 tvg-name="pb14341.720p" group-title="Diğer",pb14341.720p
@@ -9071,8 +9043,6 @@ http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/260580.mp4
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/262236.mp4
 #EXTINF:-1 tvg-name="Sierra.Day.Kurt.Lockwood" group-title="Diğer",Sierra.Day.Kurt.Lockwood
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/262237.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdCtQwfR/sifir-tv-logo.png" tvg-name="SIFIR TV" group-title="Diğer",SIFIR TV
-http://umperisn.mywire.org/index.php?id=611874&token=DeaTHLesS
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xw4G06r/37857476-ico.png" tvg-name="SILA TV" group-title="Diğer",SILA TV
 https://yayin.santraltr.com/hls/silatv.m3u8
 #EXTINF:-1 tvg-name="Sinderella.1080" group-title="Diğer",Sinderella.1080
@@ -9281,18 +9251,6 @@ http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/262247.mp4
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/245421.mp4
 #EXTINF:-1 tvg-name="SZC TV" group-title="Diğer",SZC TV
 https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/szc_tv/index.m3u8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TABII SPOR/TABII SPOR.png" tvg-name="TABII SPOR 1" group-title="Diğer",TABII SPOR 1
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=879139&extension=ts&play_token=yWPdgeW7z5
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TABII SPOR/TABII SPOR.png" tvg-name="TABII SPOR 2" group-title="Diğer",TABII SPOR 2
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=879140&extension=ts&play_token=IgIwOzfgSp
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TABII SPOR/TABII SPOR.png" tvg-name="TABII SPOR 3" group-title="Diğer",TABII SPOR 3
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=879141&extension=ts&play_token=dWP8UReRDx
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TABII SPOR/TABII SPOR.png" tvg-name="TABII SPOR 4" group-title="Diğer",TABII SPOR 4
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=879142&extension=ts&play_token=tBrasXmgRx
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TABII SPOR/TABII SPOR.png" tvg-name="TABII SPOR 5" group-title="Diğer",TABII SPOR 5
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=879143&extension=ts&play_token=yyY2TJjrQ2
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TABII SPOR/TABII SPOR.png" tvg-name="TABII SPOR 6" group-title="Diğer",TABII SPOR 6
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=879144&extension=ts&play_token=wumuCDaShy
 #EXTINF:-1 tvg-name="Tabitha.Stern.Jonathan.Stern" group-title="Diğer",Tabitha.Stern.Jonathan.Stern
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/262248.mp4
 #EXTINF:-1 tvg-name="Tawny.Tyler.Anthony.Rosano" group-title="Diğer",Tawny.Tyler.Anthony.Rosano
@@ -9333,8 +9291,8 @@ http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/260500.mp4
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/260501.mp4
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Teve2_logo.png" tvg-name="TEVE 2" group-title="Diğer",TEVE 2
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196689&extension=ts&play_token=7u6BNeQHj0
-#EXTINF:-1 tvg-logo="https://tgrteu.com/canliyayin/images/tgrteu.png" tvg-name="TGRT EU" group-title="Diğer",TGRT EU
-http://umperisn.mywire.org/index.php?id=594199&token=DeaTHLesS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TGRT_EU.png" tvg-name="TGRT EU" group-title="Diğer",TGRT EU
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197175&extension=ts&play_token=uw8w4RDI5f
 #EXTINF:-1 tvg-name="the.best.dick.sucking lips" group-title="Diğer",the.best.dick.sucking lips
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/252159.mp4
 #EXTINF:-1 tvg-name="The.cuckold.and.his.wife" group-title="Diğer",The.cuckold.and.his.wife
@@ -9371,36 +9329,8 @@ http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/262255.mp4
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 tvg-id="Tivi6.tr@SD" tvg-name="Tivi 6 (720p)" group-title="Diğer",Tivi 6 (720p)
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/tivibu.png" tvg-name="TIVIBU SPOR 4" group-title="Diğer",TIVIBU SPOR 4
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=15569&extension=ts&play_token=eaX7HBfli8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 1.png" tvg-name="TiviOne BOX OFFICE 1" group-title="Diğer",TiviOne BOX OFFICE 1
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471698&extension=ts&play_token=ZzrLzmL66r
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 2.png" tvg-name="TiviOne BOX OFFICE 2" group-title="Diğer",TiviOne BOX OFFICE 2
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471699&extension=ts&play_token=vtxTsTkH2o
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 3.png" tvg-name="TiviOne BOX OFFICE 3" group-title="Diğer",TiviOne BOX OFFICE 3
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471700&extension=ts&play_token=i0YM1UnDab
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_gurme.png" tvg-name="TiviOne GURME" group-title="Diğer",TiviOne GURME
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197426&extension=ts&play_token=z6b3kUSeDy
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_iZ_HD.png" tvg-name="TiviOne IZ" group-title="Diğer",TiviOne IZ
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197425&extension=ts&play_token=ZLI7ilYODf
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES ACTION.png" tvg-name="TiviOne MOVIES ACTION" group-title="Diğer",TiviOne MOVIES ACTION
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471677&extension=ts&play_token=wYvQ6VQYYA
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES PREMIERE.png" tvg-name="TiviOne MOVIES PREMIERE" group-title="Diğer",TiviOne MOVIES PREMIERE
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471678&extension=ts&play_token=pCSHS8y6a9
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_MOVIES_Premiere.png" tvg-name="TiviOne MOVIES PREMIERE 1" group-title="Diğer",TiviOne MOVIES PREMIERE 1
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197143&extension=ts&play_token=TIWsWdf93Z
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES PREMIERE.png" tvg-name="TiviOne MOVIES PREMIERE 2" group-title="Diğer",TiviOne MOVIES PREMIERE 2
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471679&extension=ts&play_token=5Re2g5Y61Q
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES STARS.png" tvg-name="TiviOne MOVIES STARS" group-title="Diğer",TiviOne MOVIES STARS
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471680&extension=ts&play_token=mZ2ehyWIXk
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES TURK.png" tvg-name="TiviOne MOVIES TURK" group-title="Diğer",TiviOne MOVIES TURK
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471681&extension=ts&play_token=p8HF9AkTNy
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_SERIES.png" tvg-name="TiviOne SERIES 1" group-title="Diğer",TiviOne SERIES 1
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197146&extension=ts&play_token=1rohPQEEBT
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_SERIES.png" tvg-name="TiviOne SERIES 2" group-title="Diğer",TiviOne SERIES 2
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197148&extension=ts&play_token=AZ1nfBwDC5
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_SERIES.png" tvg-name="TiviOne SERIES 4" group-title="Diğer",TiviOne SERIES 4
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197150&extension=ts&play_token=Qyg7xZtKPS
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TMB-TV.png" tvg-name="TMB" group-title="Diğer",TMB
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197344&extension=ts&play_token=XeQODwvtKm
 #EXTINF:-1 tvg-name="tollway.anal.hd" group-title="Diğer",tollway.anal.hd
@@ -9425,260 +9355,12 @@ http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/260502.mp4
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/260503.mp4
 #EXTINF:-1 tvg-name="Touring.Korea.Part.3" group-title="Diğer",Touring.Korea.Part.3
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/260504.mp4
-#EXTINF:-1 tvg-id="360.tr" tvg-logo="https://logo.cloudzone55.store/ulusal/360tv.png" tvg-name="TR:360 TV" group-title="Diğer",TR:360 TV
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/d34204b7-8ccc-42b7-84c8-60446c440146.ts
-#EXTINF:-1 tvg-id="A2.tr" tvg-logo="https://logo.cloudzone55.store/ulusal/a2.png" tvg-name="TR:A2" group-title="Diğer",TR:A2
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/b20484c4-742b-4024-992c-0ecbdaad70ea.ts
-#EXTINF:-1 tvg-id="oz.444dcc84b19542c685dc07c43430553a" tvg-logo="https://logo.cloudzone55.store/belgesel/animaux.png" tvg-name="TR:ANIMAUX" group-title="Diğer",TR:ANIMAUX
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/444dcc84-b195-42c6-85dc-07c43430553a.ts
-#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://logo.cloudzone55.store/ulusal/atv.png" tvg-name="TR:ATV" group-title="Diğer",TR:ATV
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/c71b4e75-87a1-4048-a388-2f7fc5e5c07b.ts
-#EXTINF:-1 tvg-id="ATV.Avrupa.ch" tvg-logo="https://logo.cloudzone55.store/ulusal/atveuro.png" tvg-name="TR:ATV AVRUPA" group-title="Diğer",TR:ATV AVRUPA
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/30a9c801-5672-4f9b-a615-c63f00043e9f.ts
-#EXTINF:-1 tvg-id="oz.b3f7718335d6454daa334d705b523836" tvg-logo="https://logo.cloudzone55.store/sinema/beinboxoffice1.png" tvg-name="TR:BEIN BOX OFFICE 1" group-title="Diğer",TR:BEIN BOX OFFICE 1
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/b3f77183-35d6-454d-aa33-4d705b523836.ts
-#EXTINF:-1 tvg-id="oz.97b4aa30aa524beaab1ede426a35dba1" tvg-logo="https://logo.cloudzone55.store/sinema/beinboxoffice2.png" tvg-name="TR:BEIN BOX OFFICE 2" group-title="Diğer",TR:BEIN BOX OFFICE 2
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/97b4aa30-aa52-4bea-ab1e-de426a35dba1.ts
-#EXTINF:-1 tvg-id="oz.d0bc8932cd8a40e89f50afbf31293684" tvg-logo="https://logo.cloudzone55.store/spor/beinbxoffice3.png" tvg-name="TR:BEIN BOX OFFICE 3" group-title="Diğer",TR:BEIN BOX OFFICE 3
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/d0bc8932-cd8a-40e8-9f50-afbf31293684.ts
-#EXTINF:-1 tvg-id="oz.974fb8591fe5460fa442931f6d38af90" tvg-logo="https://logo.cloudzone55.store/spor/beinconnetc1.png" tvg-name="TR:BEIN CONNECT 1  [MAC ZAMANI AKTIF]" group-title="Diğer",TR:BEIN CONNECT 1  [MAC ZAMANI AKTIF]
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/974fb859-1fe5-460f-a442-931f6d38af90.ts
-#EXTINF:-1 tvg-id="oz.a1f1c80e823a43f998837d5dd51b548c" tvg-logo="https://logo.cloudzone55.store/spor/beincon2.png" tvg-name="TR:BEIN CONNECT 2  [MAC ZAMANI AKTIF]" group-title="Diğer",TR:BEIN CONNECT 2  [MAC ZAMANI AKTIF]
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/a1f1c80e-823a-43f9-9883-7d5dd51b548c.ts
-#EXTINF:-1 tvg-id="oz.10f9486d2a1c45f9841eda859e4383ad" tvg-logo="https://logo.cloudzone55.store/spor/beincon3.png" tvg-name="TR:BEIN CONNECT 3  [MAC ZAMANI AKTIF]" group-title="Diğer",TR:BEIN CONNECT 3  [MAC ZAMANI AKTIF]
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/10f9486d-2a1c-45f9-841e-da859e4383ad.ts
-#EXTINF:-1 tvg-id="oz.feadd582d28248d29510b12e5c4f01f1" tvg-logo="https://logo.cloudzone55.store/spor/beincon4.png" tvg-name="TR:BEIN CONNECT 4  [MAC ZAMANI AKTIF]" group-title="Diğer",TR:BEIN CONNECT 4  [MAC ZAMANI AKTIF]
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/feadd582-d282-48d2-9510-b12e5c4f01f1.ts
-#EXTINF:-1 tvg-id="oz.cf5b89a9a7c5466ea79798af4d0652f8" tvg-logo="https://logo.cloudzone55.store/spor/beincon5.png" tvg-name="TR:BEIN CONNECT 5  [MAC ZAMANI AKTIF]" group-title="Diğer",TR:BEIN CONNECT 5  [MAC ZAMANI AKTIF]
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/cf5b89a9-a7c5-466e-a797-98af4d0652f8.ts
-#EXTINF:-1 tvg-id="oz.cc73873c4a634e80b0249dbead506ee2" tvg-logo="https://logo.cloudzone55.store/spor/beincon6.png" tvg-name="TR:BEIN CONNECT 6  [MAC ZAMANI AKTIF]" group-title="Diğer",TR:BEIN CONNECT 6  [MAC ZAMANI AKTIF]
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/cc73873c-4a63-4e80-b024-9dbead506ee2.ts
-#EXTINF:-1 tvg-id="oz.414b934ddd894fcd9c4609725c538289" tvg-logo="https://logo.cloudzone55.store/belgesel/beingurma.png" tvg-name="TR:BEIN GURME" group-title="Diğer",TR:BEIN GURME
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/414b934d-dd89-4fcd-9c46-09725c538289.ts
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" tvg-logo="https://logo.cloudzone55.store/spor/bein1.png" tvg-name="TR:BEINSPORTS 1" group-title="Diğer",TR:BEINSPORTS 1
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/4d17dcea-2895-40a9-a8a0-07190bcee1a8.ts
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" tvg-logo="https://logo.cloudzone55.store/spor/bein1.png" tvg-name="TR:BEINSPORTS 1 SD (DUSUK KALITE)" group-title="Diğer",TR:BEINSPORTS 1 SD (DUSUK KALITE)
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/40948810-a4ed-4975-8c81-13e1aeb39f6d.ts
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" tvg-logo="https://logo.cloudzone55.store/spor/bein1.png" tvg-name="TR:BEINSPORTS 1 TICARI" group-title="Diğer",TR:BEINSPORTS 1 TICARI
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/50500af8-8112-43f6-a90b-7dd7f1225353.ts
-#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" tvg-logo="https://logo.cloudzone55.store/spor/bein1.png" tvg-name="TR:BEINSPORTS 1  (VODAFONE-TURKCELL-TURKIYE)" group-title="Diğer",TR:BEINSPORTS 1  (VODAFONE-TURKCELL-TURKIYE)
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/1102157e-18c6-466c-a4a1-aa89d657064e.ts
-#EXTINF:-1 tvg-id="Beinsports.2.tr" tvg-logo="https://logo.cloudzone55.store/spor/bein2.png" tvg-name="TR:BEINSPORTS 2" group-title="Diğer",TR:BEINSPORTS 2
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/a20a1d86-5210-40ea-b88d-3e7684a9ddd2.ts
-#EXTINF:-1 tvg-id="Beinsports.3.tr" tvg-logo="https://logo.cloudzone55.store/spor/bein3.png" tvg-name="TR:BEINSPORTS 3" group-title="Diğer",TR:BEINSPORTS 3
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/d553d986-835e-4420-8bb1-c64d2b5cc874.ts
-#EXTINF:-1 tvg-id="Beinsports.4.tr" tvg-logo="https://logo.cloudzone55.store/spor/bein4.png" tvg-name="TR:BEINSPORTS 4" group-title="Diğer",TR:BEINSPORTS 4
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/04655157-7068-48c8-86b3-f5e8510c8720.ts
-#EXTINF:-1 tvg-id="beIN_SPORTS5_DIGITAL_Mono_AR.bein" tvg-logo="https://logo.cloudzone55.store/spor/bein5.png" tvg-name="TR:BEINSPORTS 5" group-title="Diğer",TR:BEINSPORTS 5
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/b001634b-6eb1-4381-89eb-4cdeac95d498.ts
-#EXTINF:-1 tvg-id="Bein.Sports.Haber.tr" tvg-logo="https://logo.cloudzone55.store/spor/beinhaber.png" tvg-name="TR:BEINSPORTS HABER" group-title="Diğer",TR:BEINSPORTS HABER
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/25b40afc-c406-400e-8492-5c26c4606789.ts
-#EXTINF:-1 tvg-id="oz.4937868cfbd94f168ac56a9b4eee5369" tvg-logo="https://logo.cloudzone55.store/spor/beinmax1.png" tvg-name="TR:BEINSPORTS MAX 1" group-title="Diğer",TR:BEINSPORTS MAX 1
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/4937868c-fbd9-4f16-8ac5-6a9b4eee5369.ts
-#EXTINF:-1 tvg-id="oz.50d1a0be015f45389206d4f98c0d1433" tvg-logo="https://logo.cloudzone55.store/spor/beinmax2.png" tvg-name="TR:BEINSPORTS MAX 2" group-title="Diğer",TR:BEINSPORTS MAX 2
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/50d1a0be-015f-4538-9206-d4f98c0d1433.ts
-#EXTINF:-1 tvg-id="Bi.Kanal.tr" tvg-logo="https://logo.cloudzone55.store/ulusal/bikanal.png" tvg-name="TR:BI KANAL" group-title="Diğer",TR:BI KANAL
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/1d89fcfc-70bd-4ea2-bfd3-a22be55aaf2e.ts
-#EXTINF:-1 tvg-id="BLOOMBERG.HT.tr" tvg-logo="https://logo.cloudzone55.store/haber/bloomberg.png" tvg-name="TR:BLOOMBERG HT" group-title="Diğer",TR:BLOOMBERG HT
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/0cd9913d-a3b0-44d6-8194-43c80e464ea1.ts
-#EXTINF:-1 tvg-id="oz.973019c9faff41b69d035ff61adf3dd5" tvg-logo="https://logo.cloudzone55.store/ek1/blutvplay1.png" tvg-name="TR:BLUTV PLAY 1" group-title="Diğer",TR:BLUTV PLAY 1
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/973019c9-faff-41b6-9d03-5ff61adf3dd5.ts
-#EXTINF:-1 tvg-id="oz.7fb4b27ab8684b5fbdd38ac003acb393" tvg-logo="https://logo.cloudzone55.store/ek1/blutvplay2.png" tvg-name="TR:BLUTV PLAY 2" group-title="Diğer",TR:BLUTV PLAY 2
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/7fb4b27a-b868-4b5f-bdd3-8ac003acb393.ts
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1f260af7-37dd-4368-8c9a-2d4c28fa5fd1.png" tvg-name="TR:Brt 1" group-title="Diğer",TR:Brt 1
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBC-E.tr" tvg-logo="https://logo.cloudzone55.store/ulusal/cnbce.png" tvg-name="TR:CNBC-Ê" group-title="Diğer",TR:CNBC-Ê
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/ee56ff09-a6a5-4052-9539-d318528b5d0d.ts
-#EXTINF:-1 tvg-id="oz.b39e156aaa7c4995a7393953c3bfdc14" tvg-logo="https://logo.cloudzone55.store/cocuk/smarttv.png" tvg-name="TR:COCUK SMART" group-title="Diğer",TR:COCUK SMART
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/b39e156a-aa7c-4995-a739-3953c3bfdc14.ts
-#EXTINF:-1 tvg-id="CosmoSports.tr" tvg-logo="https://logo.cloudzone55.store/spor/cosmo-sports.png" tvg-name="TR:COSMO SPORTS" group-title="Diğer",TR:COSMO SPORTS
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/58746adb-02b1-4e6e-a622-290066a2a65f.ts
-#EXTINF:-1 tvg-id="DA.VINCI.tr" tvg-logo="https://logo.cloudzone55.store/belgesel/davinci.png" tvg-name="TR:DA VINCI" group-title="Diğer",TR:DA VINCI
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/3dfdd8bc-788f-4836-8548-d6875ca15fed.ts
-#EXTINF:-1 tvg-id="DiziSmartMax.tr" tvg-logo="https://logo.cloudzone55.store/sinema/dizismartmax.png" tvg-name="TR:DIZISMART MAX" group-title="Diğer",TR:DIZISMART MAX
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/b8e1e5f7-ea98-4d34-9ae8-571f1c2f740e.ts
-#EXTINF:-1 tvg-id="oz.4e61e9f1b4014a2e983389bb42d08e5b" tvg-logo="https://logo.cloudzone55.store/sinema/dizismartpremium.png" tvg-name="TR:DIZISMART PREMIUM" group-title="Diğer",TR:DIZISMART PREMIUM
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/4e61e9f1-b401-4a2e-9833-89bb42d08e5b.ts
-#EXTINF:-1 tvg-id="oz.324304a102934cdaae6a8fbed5ee2ebf" tvg-logo="https://logo.cloudzone55.store/belgesel/docubox.png" tvg-name="TR:DOCU SCREEN" group-title="Diğer",TR:DOCU SCREEN
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/324304a1-0293-4cda-ae6a-8fbed5ee2ebf.ts
-#EXTINF:-1 tvg-id="oz.50a490b189f84700bf58a969aaaedbd0" tvg-logo="https://logo.cloudzone55.store/spor/ekolsports.png" tvg-name="TR:EKOL SPORTS" group-title="Diğer",TR:EKOL SPORTS
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/50a490b1-89f8-4700-bf58-a969aaaedbd0.ts
-#EXTINF:-1 tvg-id="oz.974662e2717b43dc9c2bb4b340786f34" tvg-logo="https://logo.cloudzone55.store/yerel/estv.png" tvg-name="TR:ES TV" group-title="Diğer",TR:ES TV
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/974662e2-717b-43dc-9c2b-b4b340786f34.ts
-#EXTINF:-1 tvg-id="Euro.D.ch" tvg-logo="https://logo.cloudzone55.store/ulusal/kanaldeuro.png" tvg-name="TR:EURO D" group-title="Diğer",TR:EURO D
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/65303807-6d5a-4400-ac78-78d643b6946f.ts
-#EXTINF:-1 tvg-id="Euro.Star.ch" tvg-logo="https://logo.cloudzone55.store/ulusal/eurostar.png" tvg-name="TR:EURO STAR" group-title="Diğer",TR:EURO STAR
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/6874722e-dec9-4e91-a6ce-b2755a2aa0f7.ts
-#EXTINF:-1 tvg-id="oz.a875d20fdb084b01a69d14e6ca01939d" tvg-logo="https://logo.cloudzone55.store/spor/exen1.png" tvg-name="TR:EXXEN SPORT 1" group-title="Diğer",TR:EXXEN SPORT 1
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/a875d20f-db08-4b01-a69d-14e6ca01939d.ts
-#EXTINF:-1 tvg-id="oz.02e514454d08405ebb1ae4f49cae9b7b" tvg-logo="https://logo.cloudzone55.store/spor/exen1.png" tvg-name="TR:EXXEN SPORT 1  (FEED YAYIN)" group-title="Diğer",TR:EXXEN SPORT 1  (FEED YAYIN)
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/02e51445-4d08-405e-bb1a-e4f49cae9b7b.ts
-#EXTINF:-1 tvg-id="oz.dbfe513f692b4453ac1585fc30a1529e" tvg-logo="https://logo.cloudzone55.store/spor/exxen2.png" tvg-name="TR:EXXEN SPORT 2" group-title="Diğer",TR:EXXEN SPORT 2
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/dbfe513f-692b-4453-ac15-85fc30a1529e.ts
-#EXTINF:-1 tvg-id="oz.24fc10fef4e94f99b20984bcdc5c57cf" tvg-logo="https://logo.cloudzone55.store/spor/exxen3.png" tvg-name="TR:EXXEN SPORT 3" group-title="Diğer",TR:EXXEN SPORT 3
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/24fc10fe-f4e9-4f99-b209-84bcdc5c57cf.ts
-#EXTINF:-1 tvg-id="oz.fd26577a67694a558f47318e65fcf46e" tvg-logo="https://logo.cloudzone55.store/spor/exxen4.png" tvg-name="TR:EXXEN SPORT 4" group-title="Diğer",TR:EXXEN SPORT 4
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/fd26577a-6769-4a55-8f47-318e65fcf46e.ts
-#EXTINF:-1 tvg-id="oz.1483332876d4494c9f851c59fce066ca" tvg-logo="https://logo.cloudzone55.store/spor/exxen5.png" tvg-name="TR:EXXEN SPORT 5" group-title="Diğer",TR:EXXEN SPORT 5
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/14833328-76d4-494c-9f85-1c59fce066ca.ts
-#EXTINF:-1 tvg-id="oz.174d456eda0e48b59f5fa7bbd379a480" tvg-logo="https://logo.cloudzone55.store/spor/exxen6.png" tvg-name="TR:EXXEN SPORT 6" group-title="Diğer",TR:EXXEN SPORT 6
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/174d456e-da0e-48b5-9f5f-a7bbd379a480.ts
-#EXTINF:-1 tvg-id="oz.003024fae3b840539cec0b8bedb7ce3c" tvg-logo="https://logo.cloudzone55.store/spor/exxen7.png" tvg-name="TR:EXXEN SPORT 7" group-title="Diğer",TR:EXXEN SPORT 7
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/003024fa-e3b8-4053-9cec-0b8bedb7ce3c.ts
-#EXTINF:-1 tvg-id="oz.94427cd4c198494d956cd05b2f420350" tvg-logo="https://logo.cloudzone55.store/spor/exxen8.png" tvg-name="TR:EXXEN SPORT 8" group-title="Diğer",TR:EXXEN SPORT 8
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/94427cd4-c198-494d-956c-d05b2f420350.ts
-#EXTINF:-1 tvg-id="oz.1a574a2abb244797ad975a04356bbe20" tvg-logo="https://logo.cloudzone55.store/spor/exxen2.png" tvg-name="TR:EXXEN SPORTS 2  (MAC ZAMANI AKTIF )" group-title="Diğer",TR:EXXEN SPORTS 2  (MAC ZAMANI AKTIF )
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/1a574a2a-bb24-4797-ad97-5a04356bbe20.ts
-#EXTINF:-1 tvg-id="oz.e8d5068fe0d24784bfe1d788e66db5f3" tvg-logo="https://logo.cloudzone55.store/spor/exxen3.png" tvg-name="TR:EXXEN SPORTS 3  (MAC ZAMANI AKTIF )" group-title="Diğer",TR:EXXEN SPORTS 3  (MAC ZAMANI AKTIF )
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/e8d5068f-e0d2-4784-bfe1-d788e66db5f3.ts
-#EXTINF:-1 tvg-id="oz.cb48eaf6fb434a378adacb968e577ef5" tvg-logo="https://logo.cloudzone55.store/spor/exxen4.png" tvg-name="TR:EXXEN SPORTS 4  (MAC ZAMANI AKTIF )" group-title="Diğer",TR:EXXEN SPORTS 4  (MAC ZAMANI AKTIF )
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/cb48eaf6-fb43-4a37-8ada-cb968e577ef5.ts
-#EXTINF:-1 tvg-id="oz.321f6c3e4ab8455f979a8f1c3bca83b9" tvg-logo="https://logo.cloudzone55.store/spor/exxen5.png" tvg-name="TR:EXXEN SPORTS 5  (MAC ZAMANI AKTIF )" group-title="Diğer",TR:EXXEN SPORTS 5  (MAC ZAMANI AKTIF )
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/321f6c3e-4ab8-455f-979a-8f1c3bca83b9.ts
-#EXTINF:-1 tvg-id="oz.9e224ae931ee4abba4c1fa7b8e4edd97" tvg-logo="https://logo.cloudzone55.store/spor/exxen6.png" tvg-name="TR:EXXEN SPORTS 6  (MAC ZAMANI AKTIF )" group-title="Diğer",TR:EXXEN SPORTS 6  (MAC ZAMANI AKTIF )
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/9e224ae9-31ee-4abb-a4c1-fa7b8e4edd97.ts
-#EXTINF:-1 tvg-id="oz.5c8a588581ac4a189e5d791cd1e28862" tvg-logo="https://logo.cloudzone55.store/spor/exxen7.png" tvg-name="TR:EXXEN SPORTS 7  (MAC ZAMANI AKTIF )" group-title="Diğer",TR:EXXEN SPORTS 7  (MAC ZAMANI AKTIF )
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/5c8a5885-81ac-4a18-9e5d-791cd1e28862.ts
-#EXTINF:-1 tvg-id="oz.151cd8226b6a4dc0b2273ac68776f06f" tvg-logo="https://logo.cloudzone55.store/spor/exxen8.png" tvg-name="TR:EXXEN SPORTS 8  (MAC ZAMANI AKTIF )" group-title="Diğer",TR:EXXEN SPORTS 8  (MAC ZAMANI AKTIF )
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/151cd822-6b6a-4dc0-b227-3ac68776f06f.ts
-#EXTINF:-1 tvg-id="oz.5e36ee25918c407d8f9349d0c7e40411" tvg-logo="https://logo.cloudzone55.store/belgesel/fashion-one.png" tvg-name="TR:FASHION ONE" group-title="Diğer",TR:FASHION ONE
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/5e36ee25-918c-407d-8f93-49d0c7e40411.ts
-#EXTINF:-1 tvg-id="oz.3d6d3894338041069b10f5db47566eb4" tvg-logo="https://logo.cloudzone55.store/belgesel/fashiotv.png" tvg-name="TR:FASHION TV" group-title="Diğer",TR:FASHION TV
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/3d6d3894-3380-4106-9b10-f5db47566eb4.ts
-#EXTINF:-1 tvg-id="FIGHTBOX..tr" tvg-logo="https://logo.cloudzone55.store/spor/fightbox.png" tvg-name="TR:FIGHTBOX" group-title="Diğer",TR:FIGHTBOX
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/90b8975e-ee50-4248-bc2f-97e13eee4fc3.ts
-#EXTINF:-1 tvg-id="FIGHTBOX..tr" tvg-logo="https://logo.cloudzone55.store/spor/fightbox.png" tvg-name="TR:FIGHTBOX  (TR/ENG)" group-title="Diğer",TR:FIGHTBOX  (TR/ENG)
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/8aed2177-21b6-41bc-93d2-87700e1c1f09.ts
-#EXTINF:-1 tvg-id="oz.faf8a7ff1e194ec88bd05c4811237aaf" tvg-logo="https://logo.cloudzone55.store/uret/fil-tv.png" tvg-name="TR:FIL TV" group-title="Diğer",TR:FIL TV
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/faf8a7ff-1e19-4ec8-8bd0-5c4811237aaf.ts
-#EXTINF:-1 tvg-id="FILMSCREEN.INTERNATIONAL.tr" tvg-logo="https://logo.cloudzone55.store/uret/film-screen.png" tvg-name="TR:FILM SCREEN" group-title="Diğer",TR:FILM SCREEN
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/3dac53a1-57ff-49f0-8664-f4a67dc9c4d9.ts
-#EXTINF:-1 tvg-id="oz.4c45d12ea26240289a0bdaae9db198dd" tvg-logo="https://logo.cloudzone55.store/uret/filmax.png" tvg-name="TR:FILMAX" group-title="Diğer",TR:FILMAX
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/4c45d12e-a262-4028-9a0b-daae9db198dd.ts
-#EXTINF:-1 tvg-id="FILMBOX..tr" tvg-logo="https://logo.cloudzone55.store/sinema/filmbox.png" tvg-name="TR:FILMBOX" group-title="Diğer",TR:FILMBOX
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/0e221115-215a-4425-b4be-b27b5a81a612.ts
-#EXTINF:-1 tvg-id="oz.4b8c22af90f849ce81055d3407833c70" tvg-logo="https://logo.cloudzone55.store/uret/filmclub.png" tvg-name="TR:FILMCLUB" group-title="Diğer",TR:FILMCLUB
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/4b8c22af-90f8-49ce-8105-5d3407833c70.ts
-#EXTINF:-1 tvg-id="oz.bd1095ea96c74214bfb1e3961b086f3a" tvg-logo="https://logo.cloudzone55.store/uret/filmclub-aksiyon.png" tvg-name="TR:FILMCLUB AKSIYON" group-title="Diğer",TR:FILMCLUB AKSIYON
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/bd1095ea-96c7-4214-bfb1-e3961b086f3a.ts
-#EXTINF:-1 tvg-id="oz.20a255b42bd24cba93351900b4433da1" tvg-logo="https://logo.cloudzone55.store/uret/filmclub-family.png" tvg-name="TR:FILMCLUB FAMILY" group-title="Diğer",TR:FILMCLUB FAMILY
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/20a255b4-2bd2-4cba-9335-1900b4433da1.ts
-#EXTINF:-1 tvg-id="oz.f752098b7a6f46b8b6a295139458a406" tvg-logo="https://logo.cloudzone55.store/uret/filmclub-komedi.png" tvg-name="TR:FILMCLUB KOMEDI" group-title="Diğer",TR:FILMCLUB KOMEDI
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/f752098b-7a6f-46b8-b6a2-95139458a406.ts
-#EXTINF:-1 tvg-id="FX.tr" tvg-logo="https://logo.cloudzone55.store/sinema/fx.png" tvg-name="TR:FX" group-title="Diğer",TR:FX
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/bd437c74-ebd6-4d93-bbb7-16aab243f8e0.ts
-#EXTINF:-1 tvg-id="GZT.TV.tr" tvg-logo="https://logo.cloudzone55.store/kanal/gzt.png" tvg-name="TR:GZT TV" group-title="Diğer",TR:GZT TV
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/0bba5b94-b18b-4f14-a713-ca2e616b4ed6.ts
-#EXTINF:-1 tvg-id="HALK.TV.tr" tvg-logo="https://logo.cloudzone55.store/haber/halktv.png" tvg-name="TR:HALK TV" group-title="Diğer",TR:HALK TV
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/af351190-a379-4283-a52c-32e704f87ccd.ts
-#EXTINF:-1 tvg-id="ID.tr" tvg-logo="https://logo.cloudzone55.store/belgesel/idx.png" tvg-name="TR:ID" group-title="Diğer",TR:ID
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/fa020f73-ef16-4cbe-a41b-66fdf22d8e7d.ts
-#EXTINF:-1 tvg-id="KANAL.23.tr" tvg-logo="https://logo.cloudzone55.store/yerel/kanal23.png" tvg-name="TR:KANAL 23" group-title="Diğer",TR:KANAL 23
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/1ab16b35-249b-41cc-ba91-7f22ab08d240.ts
-#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://logo.cloudzone55.store/ek1/kanal24.png" tvg-name="TR:KANAL 24" group-title="Diğer",TR:KANAL 24
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/8cb08358-d164-4fb3-97ed-92c6185ec1e3.ts
-#EXTINF:-1 tvg-id="oz.1193df11609d4f31a05306fe129a33ec" tvg-logo="https://logo.cloudzone55.store/yerel/kanal3.png" tvg-name="TR:KANAL 3" group-title="Diğer",TR:KANAL 3
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/1193df11-609d-4f31-a053-06fe129a33ec.ts
-#EXTINF:-1 tvg-id="oz.9086d042e5d147829ac2fdc7401ade0b" tvg-logo="https://logo.cloudzone55.store/yerel/kanalavrupa.png" tvg-name="TR:KANAL AVRUPA" group-title="Diğer",TR:KANAL AVRUPA
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/9086d042-e5d1-4782-9ac2-fdc7401ade0b.ts
-#EXTINF:-1 tvg-id="KON.TV.tr" tvg-logo="https://logo.cloudzone55.store/yerel/kontv.png" tvg-name="TR:KON TV" group-title="Diğer",TR:KON TV
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/007fa8b7-fa12-4b14-a857-c9faa89f3fd2.ts
-#EXTINF:-1 tvg-id="TRT4K.tr" tvg-logo="https://i0.wp.com/resim.yayins.com/yerel/koza.png" tvg-name="TR:KOZA TV" group-title="Diğer",TR:KOZA TV
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/5f0ba2e1-5226-49ed-9e27-d931d474aff6.ts
-#EXTINF:-1 tvg-id="KRT.TV.tr" tvg-logo="https://logo.cloudzone55.store/yerel/ktv.png" tvg-name="TR:KRT TV" group-title="Diğer",TR:KRT TV
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/84060642-971f-4640-acec-2aa60bbc66fa.ts
-#EXTINF:-1 tvg-id="oz.b919c64cb70b4ff2bab9ca2456e7f987" tvg-logo="https://logo.cloudzone55.store/haber/lider-haber-tv.png" tvg-name="TR:LIDER HABER" group-title="Diğer",TR:LIDER HABER
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/b919c64c-b70b-4ff2-bab9-ca2456e7f987.ts
-#EXTINF:-1 tvg-id="MELTEM.TV.tr" tvg-logo="https://logo.cloudzone55.store/dini/meltemtv.png" tvg-name="TR:MELTEM TV" group-title="Diğer",TR:MELTEM TV
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/df85c56e-f020-4669-916c-a296e9471828.ts
-#EXTINF:-1 tvg-id="NOW.tr" tvg-logo="https://logo.cloudzone55.store/ulusal/fox.png" tvg-name="TR:NOW" group-title="Diğer",TR:NOW
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/3e46da80-1a93-42cb-9828-66e3639f68b0.ts
-#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://logo.cloudzone55.store/haber/ntv.png" tvg-name="TR:NTV" group-title="Diğer",TR:NTV
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/100b0317-1c11-4a8b-b74c-1cf1f03eb86e.ts
-#EXTINF:-1 tvg-id="Showmax.ch" tvg-logo="https://logo.cloudzone55.store/ulusal/showmax.png" tvg-name="TR:SHOWMAX" group-title="Diğer",TR:SHOWMAX
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/c90711b2-a02f-4165-8ee5-9ec59e802163.ts
-#EXTINF:-1 tvg-id="oz.09ba421affb343f19ef2768f4830db55" tvg-logo="https://logo.cloudzone55.store/spor/sifir.png" tvg-name="TR:SIFIR TV" group-title="Diğer",TR:SIFIR TV
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/09ba421a-ffb3-43f1-9ef2-768f4830db55.ts
-#EXTINF:-1 tvg-id="SKY.SPORT.F1.at" tvg-logo="https://logo.cloudzone55.store/alman/ek/sjysportsf1.png" tvg-name="TR:SKY SPORTS F1  (ALMANCA)" group-title="Diğer",TR:SKY SPORTS F1  (ALMANCA)
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/04031195-bcb5-4762-b8de-509d2bcc7996.ts
-#EXTINF:-1 tvg-id="SÖZCÜ.TV.tr" tvg-logo="https://logo.cloudzone55.store/haber/sozcu.png" tvg-name="TR:SOZCU TV" group-title="Diğer",TR:SOZCU TV
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/b07adce8-da27-419a-803a-bc0bebbbe11c.ts
-#EXTINF:-1 tvg-id="Sportdigital1+.ch" tvg-logo="https://logo.cloudzone55.store/alman/ek4/SPORTDIGITAL.png" tvg-name="TR:SPORTDIGITAL  (AFRIKA KUPASI - ALMANCA)" group-title="Diğer",TR:SPORTDIGITAL  (AFRIKA KUPASI - ALMANCA)
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/02214971-1788-4b4b-a7d0-98cd0fc10e13.ts
-#EXTINF:-1 tvg-id="tabii.spor.tr" tvg-logo="https://logo.cloudzone55.store/spor/tabii1.png" tvg-name="TR:TABII SPOR" group-title="Diğer",TR:TABII SPOR
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/ea9c36c1-3d0b-48d0-ba44-e5f1069a9b9a.ts
-#EXTINF:-1 tvg-id="oz.4fae2efadd7c4e61a85499ed67332e91" tvg-logo="https://logo.cloudzone55.store/spor/tabii1.png" tvg-name="TR:TABII SPOR 1" group-title="Diğer",TR:TABII SPOR 1
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/4fae2efa-dd7c-4e61-a854-99ed67332e91.ts
-#EXTINF:-1 tvg-id="oz.46040d82d91e4e62a1b8e08254cdf4bc" tvg-logo="https://logo.cloudzone55.store/spor/tabii2.png" tvg-name="TR:TABII SPOR 2" group-title="Diğer",TR:TABII SPOR 2
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/46040d82-d91e-4e62-a1b8-e08254cdf4bc.ts
-#EXTINF:-1 tvg-id="oz.81d01914cc0442ecb1f1ff98c03e6fe5" tvg-logo="https://logo.cloudzone55.store/spor/tabii3.png" tvg-name="TR:TABII SPOR 3" group-title="Diğer",TR:TABII SPOR 3
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/81d01914-cc04-42ec-b1f1-ff98c03e6fe5.ts
-#EXTINF:-1 tvg-id="oz.cfae2fd713594353a51052a9f2bc02a8" tvg-logo="https://logo.cloudzone55.store/spor/tabii4.png" tvg-name="TR:TABII SPOR 4" group-title="Diğer",TR:TABII SPOR 4
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/cfae2fd7-1359-4353-a510-52a9f2bc02a8.ts
-#EXTINF:-1 tvg-id="oz.5a7a7a044695424393cfbede372ce5f3" tvg-logo="https://logo.cloudzone55.store/spor/tabii5.png" tvg-name="TR:TABII SPOR 5" group-title="Diğer",TR:TABII SPOR 5
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/5a7a7a04-4695-4243-93cf-bede372ce5f3.ts
-#EXTINF:-1 tvg-id="oz.60cdc25fa18748039553cd98b33c256f" tvg-logo="https://logo.cloudzone55.store/spor/tabii6.png" tvg-name="TR:TABII SPOR 6" group-title="Diğer",TR:TABII SPOR 6
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/60cdc25f-a187-4803-9553-cd98b33c256f.ts
-#EXTINF:-1 tvg-id="oz.a0b373904e39452fa11552c6969e142b" tvg-logo="https://logo.cloudzone55.store/spor/tabii1.png" tvg-name="TR:TABII SPOR 7" group-title="Diğer",TR:TABII SPOR 7
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/a0b37390-4e39-452f-a115-52c6969e142b.ts
-#EXTINF:-1 tvg-id="tabii.TV.tr" tvg-logo="https://logo.cloudzone55.store/uret/tabii-tv.png" tvg-name="TR:TABII TV" group-title="Diğer",TR:TABII TV
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/2175e8f6-e57c-4bd2-925f-1c933f9005fb.tsz
-#EXTINF:-1 tvg-id="oz.1896ade9b1834607aea8aa04431f7162" tvg-logo="https://logo.cloudzone55.store/spor/taytv.png" tvg-name="TR:TAY TV" group-title="Diğer",TR:TAY TV
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/1896ade9-b183-4607-aea8-aa04431f7162.ts
-#EXTINF:-1 tvg-id="TELE.1.tr" tvg-logo="https://logo.cloudzone55.store/haber/tele1.png" tvg-name="TR:TELE 1" group-title="Diğer",TR:TELE 1
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/496ed485-9019-4ce0-8043-28274d94558b.ts
-#EXTINF:-1 tvg-id="TEVE2..tr" tvg-logo="https://logo.cloudzone55.store/ulusal/teve2.png" tvg-name="TR:TEVE 2" group-title="Diğer",TR:TEVE 2
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/111ea128-bd26-43df-911e-e269f64d98fa.ts
-#EXTINF:-1 tvg-id="TGRT.EU.ch" tvg-logo="https://logo.cloudzone55.store/ulusal/tgrteu.png" tvg-name="TR:TGRT EU" group-title="Diğer",TR:TGRT EU
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/6db70281-f49f-40ec-8b14-4106ebaf5e66.ts
-#EXTINF:-1 tvg-id="TURKHABER.tr" tvg-logo="https://logo.cloudzone55.store/haber/turkhaber.png" tvg-name="TR:TH TURK HABER" group-title="Diğer",TR:TH TURK HABER
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/73bda23a-313b-42d1-9a48-17ecf67f4605.ts
-#EXTINF:-1 tvg-id="TİVİBU.SPOR.tr" tvg-logo="https://logo.cloudzone55.store/ek2/tivibuspor.png" tvg-name="TR:TIVIBUSPOR" group-title="Diğer",TR:TIVIBUSPOR
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/ab771054-d4e8-4f4b-9fb3-021cf3c04441.ts
-#EXTINF:-1 tvg-id="TİVİBU.SPOR.1.tr" tvg-logo="https://logo.cloudzone55.store/ek1/tivibu1.png" tvg-name="TR:TIVIBUSPOR 1" group-title="Diğer",TR:TIVIBUSPOR 1
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/bd40552e-8bd4-4504-a946-bc9d9e0aab6d.ts
-#EXTINF:-1 tvg-id="TİVİBU.SPOR.2.tr" tvg-logo="https://logo.cloudzone55.store/ek1/tivibu2.png" tvg-name="TR:TIVIBUSPOR 2" group-title="Diğer",TR:TIVIBUSPOR 2
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/05080024-aa01-47cb-889e-3628f3f46a8e.ts
-#EXTINF:-1 tvg-id="TİVİBU.SPOR.3.tr" tvg-logo="https://logo.cloudzone55.store/ek1/tivibu3.png" tvg-name="TR:TIVIBUSPOR 3" group-title="Diğer",TR:TIVIBUSPOR 3
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/8349298b-48e3-4aa2-b567-b69b1bc2eaac.ts
-#EXTINF:-1 tvg-id="TİVİBU.SPOR.4.tr" tvg-logo="https://logo.cloudzone55.store/ek1/tivibu4.png" tvg-name="TR:TIVIBUSPOR 4  (MAC ZAMANI)" group-title="Diğer",TR:TIVIBUSPOR 4  (MAC ZAMANI)
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/f3b8e7ef-5f6c-477a-9943-d143dec9e8af.ts
-#EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://logo.cloudzone55.store/belgesel/tlc.png" tvg-name="TR:TLC" group-title="Diğer",TR:TLC
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/69bfe135-4ad2-4717-9df1-beaa83c7e53a.ts
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/3d8f616d-a421-4fcd-a13a-1a29e3bbd88c.png" tvg-name="TR:Tmb" group-title="Diğer",TR:Tmb
 https://str.yodacdn.net/tmb_tr_app/index.m3u8
-#EXTINF:-1 tvg-id="TRACE.SPORT.STARS..tr" tvg-logo="https://logo.cloudzone55.store/2/tracesportstars.png" tvg-name="TR:TRACE SPORT STARS" group-title="Diğer",TR:TRACE SPORT STARS
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/6b56ef65-45a1-4be3-9297-867b3c1d0a72.ts
-#EXTINF:-1 tvg-id="TRT4K.tr" tvg-logo="https://logo.cloudzone55.store/muzik/trt4k.png" tvg-name="TR:TRT" group-title="Diğer",TR:TRT
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/66a6e733-8800-42b1-a030-3a2d826c874c.ts
-#EXTINF:-1 tvg-id="TRT.3.tr" tvg-logo="https://logo.cloudzone55.store/spor/trtspo3.png" tvg-name="TR:TRT 3 SPOR" group-title="Diğer",TR:TRT 3 SPOR
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/a4d4ac8d-2b93-478d-9103-68ac4ee22d5e.ts
-#EXTINF:-1 tvg-id="TRT.EBA.tr" tvg-logo="https://logo.cloudzone55.store/ulusal/ebalise.png" tvg-name="TR:TRT EBA" group-title="Diğer",TR:TRT EBA
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/b103e0bd-3997-4164-ac74-73f343cc004e.ts
-#EXTINF:-1 tvg-id="oz.2081f7aef4d3421e94e881f02269827f" tvg-logo="https://logo.cloudzone55.store/spor/trtsporyildiz.png" tvg-name="TR:TRT YILDIZ" group-title="Diğer",TR:TRT YILDIZ
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/2081f7ae-f4d3-421e-94e8-81f02269827f.ts
-#EXTINF:-1 tvg-id="TV.100.tr" tvg-logo="https://logo.cloudzone55.store/haber/tv100.png" tvg-name="TR:TV 100" group-title="Diğer",TR:TV 100
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/e2bfb221-73bc-4098-81f4-fda3686acd45.ts
-#EXTINF:-1 tvg-id="TV.4.tr" tvg-logo="https://logo.cloudzone55.store/ek1/kanal4.png" tvg-name="TR:TV 4" group-title="Diğer",TR:TV 4
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/0b625bc0-14cd-4638-a5d7-361c31c15529.ts
-#EXTINF:-1 tvg-id="oz.0a7dfa54c59e457da24264d08e3ab911" tvg-logo="https://logo.cloudzone55.store/yerel/42tv.png" tvg-name="TR:TV 42" group-title="Diğer",TR:TV 42
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/0a7dfa54-c59e-457d-a242-64d08e3ab911.ts
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/043eff4d-bde2-493c-9c7d-c07a698bb0be.png" tvg-name="TR:Tv 5" group-title="Diğer",TR:Tv 5
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
-#EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="https://logo.cloudzone55.store/haber/tvnet.png" tvg-name="TR:TVNET" group-title="Diğer",TR:TVNET
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/9911508a-c20a-472d-81b3-c1bfb72675cb.ts
-#EXTINF:-1 tvg-id="TYT.TÜRK.tr" tvg-logo="https://logo.cloudzone55.store/ulusal/tytturk.png" tvg-name="TR:TYT TURK" group-title="Diğer",TR:TYT TURK
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/244eb57d-660d-4896-8abc-06e119f6f701.ts
-#EXTINF:-1 tvg-id="oz.2d8004e6f88545709fe2c933241f2ac2" tvg-logo="https://logo.cloudzone55.store/spor/ufc.png" tvg-name="TR:UFC FIGHT PASS" group-title="Diğer",TR:UFC FIGHT PASS
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/2d8004e6-f885-4570-9fe2-c933241f2ac2.ts
-#EXTINF:-1 tvg-id="ULUSAL.KANAL.tr" tvg-logo="https://logo.cloudzone55.store/haber/ulusaltv.png" tvg-name="TR:ULUSAL TV" group-title="Diğer",TR:ULUSAL TV
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/1da369b1-9739-43c6-a864-992a87c5268d.ts
-#EXTINF:-1 tvg-id="W-Sport.tr" tvg-logo="https://logo.cloudzone55.store/spor/w-sport.png" tvg-name="TR:W SPORTS" group-title="Diğer",TR:W SPORTS
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/997a9f90-a093-4e60-84dd-60d7fc80255d.ts
-#EXTINF:-1 tvg-id="oz.350ad2eb5ece4271bb7997e11cbb604c" tvg-logo="https://logo.cloudzone55.store/spor/smackdow.png" tvg-name="TR:WWE SMACKDOWN" group-title="Diğer",TR:WWE SMACKDOWN
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/350ad2eb-5ece-4271-bb79-97e11cbb604c.ts
-#EXTINF:-1 tvg-id="oz.7e405eb1368e464ebf8e3565c83eb1d5" tvg-logo="https://logo.cloudzone55.store/ek2/yoltv.png" tvg-name="TR:YOL TV" group-title="Diğer",TR:YOL TV
-http://mekantv56.win/live/akifalioglu33/33akifalioglu/7e405eb1-368e-464e-bf8e-3565c83eb1d5.ts
 #EXTINF:-1 tvg-id="24TV.tr@SD" tvg-name="TR24 TV (720p) [Not 24/7]" group-title="Diğer",TR24 TV (720p) [Not 24/7]
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 tvg-name="Tracey.Sweet.Marco.Banderas" group-title="Diğer",Tracey.Sweet.Marco.Banderas
@@ -9709,8 +9391,6 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197367&exte
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/-Rox1.webp" tvg-name="TRT1" group-title="Diğer",TRT1
 https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8aa3uppo48h8&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2SMyj3t/TRT-3-Spor-logo-(2022)-svg.webp" tvg-name="TRT3 SPOR" group-title="Diğer",TRT3 SPOR
-http://umperisn.mywire.org/index.php?id=2020&token=DeaTHLesS
 #EXTINF:-1 tvg-name="trueamateurs.17.07.17.amber.chase.date.night.dick.for.portland.babe" group-title="Diğer",trueamateurs.17.07.17.amber.chase.date.night.dick.for.portland.babe
 http://mqnzwwau.megasharktv.xyz:80/movie/QXJYR5HS/UHD88941/245424.mp4
 #EXTINF:-1 tvg-name="trueamateurs.17.07.17.bailey.brooke.blonde.babe.showered.with.cum" group-title="Diğer",trueamateurs.17.07.17.bailey.brooke.blonde.babe.showered.with.cum
@@ -9765,8 +9445,8 @@ https://live.artidijitalmedya.com/artidijital_tv3/tv3/chunks.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-id="TV4.tr@SD" tvg-name="TV4 (720p)" group-title="Diğer",TV4 (720p)
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLDqD22N/TV5.jpg" tvg-name="TV5" group-title="Diğer",TV5
-http://umperisn.mywire.org/index.php?id=2967&token=DeaTHLesS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/tv5.png" tvg-name="TV5" group-title="Diğer",TV5
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=210462&extension=ts&play_token=KSZIvDyc2v
 #EXTINF:-1 tvg-logo="https://www.tv52.com.tr/data/genel/logo.png" tvg-name="TV52" group-title="Diğer",TV52
 https://edge1.taksimbilisim.com/tv52/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="TVNET.tr@SD" tvg-name="TVNET (1080p)" group-title="Diğer",TVNET (1080p)
